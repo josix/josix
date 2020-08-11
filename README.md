@@ -2,9 +2,12 @@
 - 🔭 I’m currently working on building my blog / designing a KG-based RecSys / playing kaggle
 - 🌱 I’m currently learning GatsbyJS / DeepL / AWS / Popping / Japanese
 - 📫 How to reach me: josixwang@gmail.com
+
+[![Josix's Readme Stats](https://github-readme-stats.vercel.app/api?username=josix&show_icons=true&theme=dracula&count_private=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josix&layout=compact&theme=dracula&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **josix/josix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
