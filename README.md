@@ -1,8 +1,37 @@
 ### Hi there 👋 I'm Josix
+```python
+"""For the better readability the following code is not runnable😆"""
+@dataclass
+class Josix:
+    """
+    All about Josix
+    """
 
-- 🔭 I’m currently working on building my blog / designing a KG-based RecSys / playing kaggle
-- 🌱 I’m currently learning GatsbyJS / DeepL / AWS / 
-- 📫 How to reach me: josixwang@gmail.com
+    pronouns: Union[Literal["he"], Literal["him"]]
+    website: str = "https://josix.tw"
+    email: str = "josixwang@gmail.com"
+    languages: List[str] = ["zh-tw", "en-us"]
+    code: List[str] = ["Python", "JavaScript"]
+    ask_me_about: List[str] = [
+        "web dev",
+        "tech",
+        "machine learning",
+        "recommender system",
+        "network embedding",
+    ]
+    communities: Dict[str, List[str]] = {
+        "volunteer": ["PyConTW'19", "PyConTW'20", "PyConTW'21"],
+        "team_lead": ["PyConTW'21"],
+    }
+    technologies: Dict[str, List[str]] = {
+        "backend": ["fastapi", "django"],
+        "frontend": ["reactjs", "vuejs", "nuxtjs", "redux", "webpack", "tailwindcss"],
+        "tools": ["elasticsearch", "clickhouse", "redis", "kubernetes", "docker"],
+        "shell": ["bash", "zsh"],
+        "machine_learning": ["pytorch", "pytorch-geometric"],
+        "editors": ["vscode", "vim"],
+    }
+```
 
 [![Josix's Trophy](https://github-profile-trophy.vercel.app/?username=josix)](https://github.com/ryo-ma/github-profile-trophy)
 
