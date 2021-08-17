@@ -32,7 +32,6 @@ class Josix:
         "editors": ["vscode", "vim"],
     }
 ```
-
-[![Josix's Trophy](https://github-profile-trophy.vercel.app/?username=josix)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Josix's Readme Stats](https://github-readme-stats.vercel.app/api?username=josix&show_icons=true&theme=default&count_private=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Josix's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josix&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
