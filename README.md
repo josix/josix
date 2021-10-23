@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Josix
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josix" alt="josix" /> </p>
+![josix](https://komarev.com/ghpvc/?username=josix)
 ```python
 """For the better readability the following code is not runnable😆"""
 @dataclass
