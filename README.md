@@ -34,5 +34,8 @@ class Josix:
     }
 ```
 [![Josix's Readme Stats](https://github-readme-stats.vercel.app/api?username=josix&show_icons=true&theme=default&count_private=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Josix's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:activity-->
 
