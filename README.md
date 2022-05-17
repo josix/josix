@@ -1,13 +1,8 @@
-### Hi there 👋 I'm Josix
 ![josix](https://komarev.com/ghpvc/?username=josix)
 ```python
 """For the better readability the following code is not runnable😆"""
 @dataclass
 class Josix:
-    """
-    All about Josix
-    """
-
     pronouns: Union[Literal["he"], Literal["him"]]
     website: str = "https://josix.tw"
     email: str = "josixwang(at)gmail.com"
@@ -33,10 +28,7 @@ class Josix:
         "editors": ["vscode", "vim"],
     }
 ```
-[![Josix's Readme Stats](https://github-readme-stats.vercel.app/api?username=josix&show_icons=true&theme=default&count_private=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Josix's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+## Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#40](https://github.com/pycontw/pycon_archive_past_website/issues/40) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
 2. 🗣 Commented on [#41](https://github.com/pycontw/pycon_archive_past_website/issues/41) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
@@ -45,3 +37,9 @@ class Josix:
 5. 🗣 Commented on [#28](https://github.com/josix/blog/issues/28) in [josix/blog](https://github.com/josix/blog)
 <!--END_SECTION:activity-->
 
+
+
+## Stats
+[![Josix's Readme Stats](https://github-readme-stats.vercel.app/api?username=josix&show_icons=true&theme=default&count_private=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Josix's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
