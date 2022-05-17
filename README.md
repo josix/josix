@@ -38,4 +38,10 @@ class Josix:
 [![Josix's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#40](https://github.com/pycontw/pycon_archive_past_website/issues/40) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
+2. 🗣 Commented on [#41](https://github.com/pycontw/pycon_archive_past_website/issues/41) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
+3. 🎉 Merged PR [#52](https://github.com/josix/blog/pull/52) in [josix/blog](https://github.com/josix/blog)
+4. 🗣 Commented on [#28](https://github.com/josix/blog/issues/28) in [josix/blog](https://github.com/josix/blog)
+5. 🗣 Commented on [#28](https://github.com/josix/blog/issues/28) in [josix/blog](https://github.com/josix/blog)
+<!--END_SECTION:activity-->
 
