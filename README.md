@@ -30,11 +30,11 @@ class Josix:
 ```
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/josix/blog/pull/55) in [josix/blog](https://github.com/josix/blog)
-2. 🎉 Merged PR [#54](https://github.com/josix/blog/pull/54) in [josix/blog](https://github.com/josix/blog)
-3. 🗣 Commented on [#1759](https://github.com/anuraghazra/github-readme-stats/issues/1759) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. 🎉 Merged PR [#56](https://github.com/josix/blog/pull/56) in [josix/blog](https://github.com/josix/blog)
+2. 🎉 Merged PR [#55](https://github.com/josix/blog/pull/55) in [josix/blog](https://github.com/josix/blog)
+3. 🎉 Merged PR [#54](https://github.com/josix/blog/pull/54) in [josix/blog](https://github.com/josix/blog)
 4. 🗣 Commented on [#1759](https://github.com/anuraghazra/github-readme-stats/issues/1759) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-5. 🎉 Merged PR [#53](https://github.com/josix/blog/pull/53) in [josix/blog](https://github.com/josix/blog)
+5. 🗣 Commented on [#1759](https://github.com/anuraghazra/github-readme-stats/issues/1759) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
 
