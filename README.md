@@ -31,10 +31,10 @@ class Josix:
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1079](https://github.com/pycontw/pycon.tw/issues/1079) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-2. 💪 Opened PR [#2](https://github.com/josix/PCC/pull/2) in [josix/PCC](https://github.com/josix/PCC)
-3. 🗣 Commented on [#1080](https://github.com/pycontw/pycon.tw/issues/1080) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-4. 🎉 Merged PR [#56](https://github.com/josix/blog/pull/56) in [josix/blog](https://github.com/josix/blog)
-5. 🎉 Merged PR [#55](https://github.com/josix/blog/pull/55) in [josix/blog](https://github.com/josix/blog)
+2. 💪 Opened PR [#1082](https://github.com/pycontw/pycon.tw/pull/1082) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+3. 🗣 Commented on [#1079](https://github.com/pycontw/pycon.tw/issues/1079) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+4. 💪 Opened PR [#2](https://github.com/josix/PCC/pull/2) in [josix/PCC](https://github.com/josix/PCC)
+5. 🗣 Commented on [#1080](https://github.com/pycontw/pycon.tw/issues/1080) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
 <!--END_SECTION:activity-->
 
 
