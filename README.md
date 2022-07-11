@@ -30,11 +30,11 @@ class Josix:
 ```
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#274](https://github.com/pycontw/pycontw-frontend/pull/274) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-2. 💪 Opened PR [#273](https://github.com/pycontw/pycontw-frontend/pull/273) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-3. ❗️ Opened issue [#5](https://github.com/josix/pysmore/issues/5) in [josix/pysmore](https://github.com/josix/pysmore)
-4. 💪 Opened PR [#48](https://github.com/cnclabs/smore/pull/48) in [cnclabs/smore](https://github.com/cnclabs/smore)
-5. 🎉 Merged PR [#60](https://github.com/josix/blog/pull/60) in [josix/blog](https://github.com/josix/blog)
+1. 🎉 Merged PR [#62](https://github.com/josix/blog/pull/62) in [josix/blog](https://github.com/josix/blog)
+2. 💪 Opened PR [#274](https://github.com/pycontw/pycontw-frontend/pull/274) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+3. 💪 Opened PR [#273](https://github.com/pycontw/pycontw-frontend/pull/273) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+4. ❗️ Opened issue [#5](https://github.com/josix/pysmore/issues/5) in [josix/pysmore](https://github.com/josix/pysmore)
+5. 💪 Opened PR [#48](https://github.com/cnclabs/smore/pull/48) in [cnclabs/smore](https://github.com/cnclabs/smore)
 <!--END_SECTION:activity-->
 
 
