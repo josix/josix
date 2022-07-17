@@ -30,11 +30,11 @@ class Josix:
 ```
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/josix/PCC/pull/3) in [josix/PCC](https://github.com/josix/PCC)
-2. 🎉 Merged PR [#64](https://github.com/josix/blog/pull/64) in [josix/blog](https://github.com/josix/blog)
-3. 🎉 Merged PR [#63](https://github.com/josix/blog/pull/63) in [josix/blog](https://github.com/josix/blog)
-4. 🎉 Merged PR [#62](https://github.com/josix/blog/pull/62) in [josix/blog](https://github.com/josix/blog)
-5. 💪 Opened PR [#274](https://github.com/pycontw/pycontw-frontend/pull/274) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+1. 🗣 Commented on [#284](https://github.com/pycontw/pycontw-frontend/issues/284) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+2. 💪 Opened PR [#285](https://github.com/pycontw/pycontw-frontend/pull/285) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+3. 💪 Opened PR [#3](https://github.com/josix/PCC/pull/3) in [josix/PCC](https://github.com/josix/PCC)
+4. 🎉 Merged PR [#64](https://github.com/josix/blog/pull/64) in [josix/blog](https://github.com/josix/blog)
+5. 🎉 Merged PR [#63](https://github.com/josix/blog/pull/63) in [josix/blog](https://github.com/josix/blog)
 <!--END_SECTION:activity-->
 
 
