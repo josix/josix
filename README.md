@@ -30,11 +30,11 @@ class Josix:
 ```
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#302](https://github.com/pycontw/pycontw-frontend/pull/302) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-2. 🎉 Merged PR [#3](https://github.com/josix/PCC/pull/3) in [josix/PCC](https://github.com/josix/PCC)
-3. 💪 Opened PR [#288](https://github.com/pycontw/pycontw-frontend/pull/288) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-4. 🗣 Commented on [#284](https://github.com/pycontw/pycontw-frontend/issues/284) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-5. 💪 Opened PR [#285](https://github.com/pycontw/pycontw-frontend/pull/285) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+1. 🎉 Merged PR [#66](https://github.com/josix/blog/pull/66) in [josix/blog](https://github.com/josix/blog)
+2. 💪 Opened PR [#66](https://github.com/josix/blog/pull/66) in [josix/blog](https://github.com/josix/blog)
+3. 💪 Opened PR [#302](https://github.com/pycontw/pycontw-frontend/pull/302) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+4. 🎉 Merged PR [#3](https://github.com/josix/PCC/pull/3) in [josix/PCC](https://github.com/josix/PCC)
+5. 💪 Opened PR [#288](https://github.com/pycontw/pycontw-frontend/pull/288) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
 <!--END_SECTION:activity-->
 
 
