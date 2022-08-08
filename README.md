@@ -30,11 +30,11 @@ class Josix:
 ```
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#65](https://github.com/josix/blog/pull/65) in [josix/blog](https://github.com/josix/blog)
-2. ❌ Closed PR [#67](https://github.com/josix/blog/pull/67) in [josix/blog](https://github.com/josix/blog)
-3. ❌ Closed PR [#68](https://github.com/josix/blog/pull/68) in [josix/blog](https://github.com/josix/blog)
-4. ❌ Closed PR [#69](https://github.com/josix/blog/pull/69) in [josix/blog](https://github.com/josix/blog)
-5. 🎉 Merged PR [#4](https://github.com/josix/knowledge-base/pull/4) in [josix/knowledge-base](https://github.com/josix/knowledge-base)
+1. 🗣 Commented on [#302](https://github.com/pycontw/pycontw-frontend/issues/302) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+2. ❌ Closed PR [#65](https://github.com/josix/blog/pull/65) in [josix/blog](https://github.com/josix/blog)
+3. ❌ Closed PR [#67](https://github.com/josix/blog/pull/67) in [josix/blog](https://github.com/josix/blog)
+4. ❌ Closed PR [#68](https://github.com/josix/blog/pull/68) in [josix/blog](https://github.com/josix/blog)
+5. ❌ Closed PR [#69](https://github.com/josix/blog/pull/69) in [josix/blog](https://github.com/josix/blog)
 <!--END_SECTION:activity-->
 
 
