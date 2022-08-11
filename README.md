@@ -30,11 +30,11 @@ class Josix:
 ```
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#314](https://github.com/pycontw/pycontw-frontend/pull/314) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-2. 🗣 Commented on [#302](https://github.com/pycontw/pycontw-frontend/issues/302) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+1. 💪 Opened PR [#315](https://github.com/pycontw/pycontw-frontend/pull/315) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+2. 💪 Opened PR [#314](https://github.com/pycontw/pycontw-frontend/pull/314) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
 3. 🗣 Commented on [#302](https://github.com/pycontw/pycontw-frontend/issues/302) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-4. ❌ Closed PR [#65](https://github.com/josix/blog/pull/65) in [josix/blog](https://github.com/josix/blog)
-5. ❌ Closed PR [#67](https://github.com/josix/blog/pull/67) in [josix/blog](https://github.com/josix/blog)
+4. 🗣 Commented on [#302](https://github.com/pycontw/pycontw-frontend/issues/302) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+5. ❌ Closed PR [#65](https://github.com/josix/blog/pull/65) in [josix/blog](https://github.com/josix/blog)
 <!--END_SECTION:activity-->
 
 
