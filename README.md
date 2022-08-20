@@ -30,11 +30,11 @@ class Josix:
 ```
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#71](https://github.com/josix/blog/pull/71) in [josix/blog](https://github.com/josix/blog)
-2. 🎉 Merged PR [#70](https://github.com/josix/blog/pull/70) in [josix/blog](https://github.com/josix/blog)
-3. 💪 Opened PR [#315](https://github.com/pycontw/pycontw-frontend/pull/315) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-4. 💪 Opened PR [#314](https://github.com/pycontw/pycontw-frontend/pull/314) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-5. 🗣 Commented on [#302](https://github.com/pycontw/pycontw-frontend/issues/302) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+1. 🗣 Commented on [#3](https://github.com/pycontw/talk-preview-img-builder/issues/3) in [pycontw/talk-preview-img-builder](https://github.com/pycontw/talk-preview-img-builder)
+2. ❗️ Closed issue [#3](https://github.com/pycontw/talk-preview-img-builder/issues/3) in [pycontw/talk-preview-img-builder](https://github.com/pycontw/talk-preview-img-builder)
+3. 🎉 Merged PR [#5](https://github.com/pycontw/talk-preview-img-builder/pull/5) in [pycontw/talk-preview-img-builder](https://github.com/pycontw/talk-preview-img-builder)
+4. 🎉 Merged PR [#71](https://github.com/josix/blog/pull/71) in [josix/blog](https://github.com/josix/blog)
+5. 🎉 Merged PR [#70](https://github.com/josix/blog/pull/70) in [josix/blog](https://github.com/josix/blog)
 <!--END_SECTION:activity-->
 
 
