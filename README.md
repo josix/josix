@@ -30,11 +30,11 @@ class Josix:
 ```
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/pycontw/hackmd-archive-worker/issues/2) in [pycontw/hackmd-archive-worker](https://github.com/pycontw/hackmd-archive-worker)
-2. 🗣 Commented on [#2](https://github.com/pycontw/hackmd-archive-worker/issues/2) in [pycontw/hackmd-archive-worker](https://github.com/pycontw/hackmd-archive-worker)
-3. 💪 Opened PR [#72](https://github.com/josix/blog/pull/72) in [josix/blog](https://github.com/josix/blog)
-4. ❗️ Closed issue [#283](https://github.com/pycontw/pycontw-frontend/issues/283) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-5. 🗣 Commented on [#283](https://github.com/pycontw/pycontw-frontend/issues/283) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+1. 🎉 Merged PR [#72](https://github.com/josix/blog/pull/72) in [josix/blog](https://github.com/josix/blog)
+2. ❗️ Closed issue [#2](https://github.com/pycontw/hackmd-archive-worker/issues/2) in [pycontw/hackmd-archive-worker](https://github.com/pycontw/hackmd-archive-worker)
+3. 🗣 Commented on [#2](https://github.com/pycontw/hackmd-archive-worker/issues/2) in [pycontw/hackmd-archive-worker](https://github.com/pycontw/hackmd-archive-worker)
+4. 💪 Opened PR [#72](https://github.com/josix/blog/pull/72) in [josix/blog](https://github.com/josix/blog)
+5. ❗️ Closed issue [#283](https://github.com/pycontw/pycontw-frontend/issues/283) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
 <!--END_SECTION:activity-->
 
 
