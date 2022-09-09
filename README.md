@@ -16,8 +16,8 @@ class Josix:
         "network embedding",
     ]
     communities: Dict[str, List[str]] = {
-        "volunteer": ["PyConTW'19", "PyConTW'20", "PyConTW'21"],
-        "team_lead": ["PyConTW'21"],
+        "volunteer": ["PyConTW'19", "PyConTW'20", "PyConTW'21", "PyConAPAC'22"],
+        "team_lead": ["PyConTW'21", "PyConAPAC'22"],
     }
     technologies: Dict[str, List[str]] = {
         "backend": ["fastapi", "django"],
