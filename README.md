@@ -30,11 +30,11 @@ class Josix:
 ```
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#334](https://github.com/pycontw/pycontw-frontend/pull/334) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-2. 🎉 Merged PR [#73](https://github.com/josix/blog/pull/73) in [josix/blog](https://github.com/josix/blog)
-3. 💪 Opened PR [#73](https://github.com/josix/blog/pull/73) in [josix/blog](https://github.com/josix/blog)
-4. ❌ Closed PR [#256](https://github.com/python/python-docs-zh-tw/pull/256) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🎉 Merged PR [#72](https://github.com/josix/blog/pull/72) in [josix/blog](https://github.com/josix/blog)
+1. ❗️ Closed issue [#2](https://github.com/josix/resume/issues/2) in [josix/resume](https://github.com/josix/resume)
+2. ❗️ Closed issue [#1](https://github.com/josix/resume/issues/1) in [josix/resume](https://github.com/josix/resume)
+3. ❗️ Closed issue [#1](https://github.com/josix/resume/issues/1) in [josix/resume](https://github.com/josix/resume)
+4. 🗣 Commented on [#1](https://github.com/josix/resume/issues/1) in [josix/resume](https://github.com/josix/resume)
+5. 🗣 Commented on [#2](https://github.com/josix/resume/issues/2) in [josix/resume](https://github.com/josix/resume)
 <!--END_SECTION:activity-->
 
 
