@@ -28,6 +28,8 @@ class Josix:
         "editors": ["vscode", "vim"],
     }
 ```
+[![@josix's Holopin board](https://holopin.io/api/user/board?user=josix)](https://holopin.io/@josix)
+
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#2](https://github.com/josix/resume/issues/2) in [josix/resume](https://github.com/josix/resume)
