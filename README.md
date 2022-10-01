@@ -32,11 +32,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/pycontw/hackmd-archive-worker/issues/1) in [pycontw/hackmd-archive-worker](https://github.com/pycontw/hackmd-archive-worker)
-2. ❗️ Closed issue [#253](https://github.com/python/python-docs-zh-tw/issues/253) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. 🎉 Merged PR [#254](https://github.com/python/python-docs-zh-tw/pull/254) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. ❗️ Closed issue [#2](https://github.com/josix/resume/issues/2) in [josix/resume](https://github.com/josix/resume)
-5. ❗️ Closed issue [#1](https://github.com/josix/resume/issues/1) in [josix/resume](https://github.com/josix/resume)
+1. 💪 Opened PR [#1100](https://github.com/pycontw/pycon.tw/pull/1100) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+2. ❗️ Closed issue [#1](https://github.com/pycontw/hackmd-archive-worker/issues/1) in [pycontw/hackmd-archive-worker](https://github.com/pycontw/hackmd-archive-worker)
+3. ❗️ Closed issue [#253](https://github.com/python/python-docs-zh-tw/issues/253) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. 🎉 Merged PR [#254](https://github.com/python/python-docs-zh-tw/pull/254) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. ❗️ Closed issue [#2](https://github.com/josix/resume/issues/2) in [josix/resume](https://github.com/josix/resume)
 <!--END_SECTION:activity-->
 
 
