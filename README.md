@@ -32,11 +32,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#106](https://github.com/airbytehq/connector-contest/issues/106) in [airbytehq/connector-contest](https://github.com/airbytehq/connector-contest)
-2. 💪 Opened PR [#1100](https://github.com/pycontw/pycon.tw/pull/1100) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-3. ❗️ Closed issue [#1](https://github.com/pycontw/hackmd-archive-worker/issues/1) in [pycontw/hackmd-archive-worker](https://github.com/pycontw/hackmd-archive-worker)
-4. ❗️ Closed issue [#253](https://github.com/python/python-docs-zh-tw/issues/253) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🎉 Merged PR [#254](https://github.com/python/python-docs-zh-tw/pull/254) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 🗣 Commented on [#117](https://github.com/airbytehq/connector-contest/issues/117) in [airbytehq/connector-contest](https://github.com/airbytehq/connector-contest)
+2. ❗️ Opened issue [#106](https://github.com/airbytehq/connector-contest/issues/106) in [airbytehq/connector-contest](https://github.com/airbytehq/connector-contest)
+3. 💪 Opened PR [#1100](https://github.com/pycontw/pycon.tw/pull/1100) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+4. ❗️ Closed issue [#1](https://github.com/pycontw/hackmd-archive-worker/issues/1) in [pycontw/hackmd-archive-worker](https://github.com/pycontw/hackmd-archive-worker)
+5. ❗️ Closed issue [#253](https://github.com/python/python-docs-zh-tw/issues/253) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
 
