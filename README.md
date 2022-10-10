@@ -32,11 +32,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11783](https://github.com/airbytehq/airbyte/issues/11783) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-2. 💪 Opened PR [#17770](https://github.com/airbytehq/airbyte/pull/17770) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-3. 🗣 Commented on [#117](https://github.com/airbytehq/connector-contest/issues/117) in [airbytehq/connector-contest](https://github.com/airbytehq/connector-contest)
-4. ❗️ Opened issue [#106](https://github.com/airbytehq/connector-contest/issues/106) in [airbytehq/connector-contest](https://github.com/airbytehq/connector-contest)
-5. 💪 Opened PR [#1100](https://github.com/pycontw/pycon.tw/pull/1100) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+1. 🗣 Commented on [#17770](https://github.com/airbytehq/airbyte/issues/17770) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
+2. 🗣 Commented on [#11783](https://github.com/airbytehq/airbyte/issues/11783) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
+3. 💪 Opened PR [#17770](https://github.com/airbytehq/airbyte/pull/17770) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
+4. 🗣 Commented on [#117](https://github.com/airbytehq/connector-contest/issues/117) in [airbytehq/connector-contest](https://github.com/airbytehq/connector-contest)
+5. ❗️ Opened issue [#106](https://github.com/airbytehq/connector-contest/issues/106) in [airbytehq/connector-contest](https://github.com/airbytehq/connector-contest)
 <!--END_SECTION:activity-->
 
 
