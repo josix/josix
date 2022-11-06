@@ -32,11 +32,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17770](https://github.com/airbytehq/airbyte/issues/17770) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-2. 🗣 Commented on [#17770](https://github.com/airbytehq/airbyte/issues/17770) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-3. 🗣 Commented on [#17855](https://github.com/airbytehq/airbyte/issues/17855) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-4. ❗️ Opened issue [#17855](https://github.com/airbytehq/airbyte/issues/17855) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-5. 🗣 Commented on [#17770](https://github.com/airbytehq/airbyte/issues/17770) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
+1. ❗️ Opened issue [#337](https://github.com/pycontw/pycontw-frontend/issues/337) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+2. ❗️ Opened issue [#336](https://github.com/pycontw/pycontw-frontend/issues/336) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+3. 🗣 Commented on [#17770](https://github.com/airbytehq/airbyte/issues/17770) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
+4. 🗣 Commented on [#17770](https://github.com/airbytehq/airbyte/issues/17770) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
+5. 🗣 Commented on [#17855](https://github.com/airbytehq/airbyte/issues/17855) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
 <!--END_SECTION:activity-->
 
 
