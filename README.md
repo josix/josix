@@ -32,11 +32,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/airbytehq/connector-contest/issues/106) in [airbytehq/connector-contest](https://github.com/airbytehq/connector-contest)
-2. ❌ Closed PR [#4](https://github.com/josix/pysmore/pull/4) in [josix/pysmore](https://github.com/josix/pysmore)
-3. ❌ Closed PR [#2](https://github.com/josix/PCC/pull/2) in [josix/PCC](https://github.com/josix/PCC)
-4. ❗️ Opened issue [#339](https://github.com/pycontw/pycontw-frontend/issues/339) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-5. ❗️ Opened issue [#338](https://github.com/pycontw/pycontw-frontend/issues/338) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+1. 🗣 Commented on [#17770](https://github.com/airbytehq/airbyte/issues/17770) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
+2. 🗣 Commented on [#106](https://github.com/airbytehq/connector-contest/issues/106) in [airbytehq/connector-contest](https://github.com/airbytehq/connector-contest)
+3. ❌ Closed PR [#4](https://github.com/josix/pysmore/pull/4) in [josix/pysmore](https://github.com/josix/pysmore)
+4. ❌ Closed PR [#2](https://github.com/josix/PCC/pull/2) in [josix/PCC](https://github.com/josix/PCC)
+5. ❗️ Opened issue [#339](https://github.com/pycontw/pycontw-frontend/issues/339) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
 <!--END_SECTION:activity-->
 
 
