@@ -32,11 +32,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19057](https://github.com/airbytehq/airbyte/issues/19057) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-2. 🗣 Commented on [#17770](https://github.com/airbytehq/airbyte/issues/17770) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-3. 🗣 Commented on [#17770](https://github.com/airbytehq/airbyte/issues/17770) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-4. 🗣 Commented on [#106](https://github.com/airbytehq/connector-contest/issues/106) in [airbytehq/connector-contest](https://github.com/airbytehq/connector-contest)
-5. ❌ Closed PR [#4](https://github.com/josix/pysmore/pull/4) in [josix/pysmore](https://github.com/josix/pysmore)
+1. ❗️ Closed issue [#32](https://github.com/pycontw/pycon_archive_past_website/issues/32) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
+2. ❗️ Closed issue [#5](https://github.com/josix/pysmore/issues/5) in [josix/pysmore](https://github.com/josix/pysmore)
+3. 🗣 Commented on [#19057](https://github.com/airbytehq/airbyte/issues/19057) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
+4. 🗣 Commented on [#17770](https://github.com/airbytehq/airbyte/issues/17770) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
+5. 🗣 Commented on [#17770](https://github.com/airbytehq/airbyte/issues/17770) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
 <!--END_SECTION:activity-->
 
 
