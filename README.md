@@ -32,11 +32,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#32](https://github.com/pycontw/pycon_archive_past_website/issues/32) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
-2. ❗️ Closed issue [#5](https://github.com/josix/pysmore/issues/5) in [josix/pysmore](https://github.com/josix/pysmore)
-3. 🗣 Commented on [#19057](https://github.com/airbytehq/airbyte/issues/19057) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-4. 🗣 Commented on [#17770](https://github.com/airbytehq/airbyte/issues/17770) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-5. 🗣 Commented on [#17770](https://github.com/airbytehq/airbyte/issues/17770) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
+1. ❗️ Opened issue [#342](https://github.com/pycontw/pycontw-frontend/issues/342) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+2. ❗️ Opened issue [#1102](https://github.com/pycontw/pycon.tw/issues/1102) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+3. ❗️ Opened issue [#1101](https://github.com/pycontw/pycon.tw/issues/1101) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+4. ❗️ Opened issue [#341](https://github.com/pycontw/pycontw-frontend/issues/341) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+5. ❗️ Opened issue [#340](https://github.com/pycontw/pycontw-frontend/issues/340) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
 <!--END_SECTION:activity-->
 
 
