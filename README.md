@@ -32,11 +32,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#41](https://github.com/pycontw/pycon_archive_past_website/pull/41) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
-2. 🗣 Commented on [#41](https://github.com/pycontw/pycon_archive_past_website/issues/41) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
-3. ❗️ Closed issue [#37](https://github.com/pycontw/pycon_archive_past_website/issues/37) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
-4. 🗣 Commented on [#37](https://github.com/pycontw/pycon_archive_past_website/issues/37) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
-5. 🗣 Commented on [#344](https://github.com/pycontw/pycontw-frontend/issues/344) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+1. 💪 Opened PR [#349](https://github.com/pycontw/pycontw-frontend/pull/349) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+2. ❌ Closed PR [#41](https://github.com/pycontw/pycon_archive_past_website/pull/41) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
+3. 🗣 Commented on [#41](https://github.com/pycontw/pycon_archive_past_website/issues/41) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
+4. ❗️ Closed issue [#37](https://github.com/pycontw/pycon_archive_past_website/issues/37) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
+5. 🗣 Commented on [#37](https://github.com/pycontw/pycon_archive_past_website/issues/37) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
 <!--END_SECTION:activity-->
 
 
