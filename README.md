@@ -32,11 +32,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/pycontw/session-video-publisher/pull/14) in [pycontw/session-video-publisher](https://github.com/pycontw/session-video-publisher)
-2. 🗣 Commented on [#1079](https://github.com/pycontw/pycon.tw/issues/1079) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-3. ❗️ Opened issue [#12](https://github.com/pycontw/pycontw-nginx/issues/12) in [pycontw/pycontw-nginx](https://github.com/pycontw/pycontw-nginx)
-4. ❗️ Opened issue [#1104](https://github.com/pycontw/pycon.tw/issues/1104) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-5. ❗️ Opened issue [#1103](https://github.com/pycontw/pycon.tw/issues/1103) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+1. 🗣 Commented on [#350](https://github.com/pycontw/pycontw-frontend/issues/350) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+2. 💪 Opened PR [#351](https://github.com/pycontw/pycontw-frontend/pull/351) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+3. 💪 Opened PR [#14](https://github.com/pycontw/session-video-publisher/pull/14) in [pycontw/session-video-publisher](https://github.com/pycontw/session-video-publisher)
+4. 🗣 Commented on [#1079](https://github.com/pycontw/pycon.tw/issues/1079) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+5. ❗️ Opened issue [#12](https://github.com/pycontw/pycontw-nginx/issues/12) in [pycontw/pycontw-nginx](https://github.com/pycontw/pycontw-nginx)
 <!--END_SECTION:activity-->
 
 
