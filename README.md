@@ -32,11 +32,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/pycontw/pycon_archive_past_website/issues/42) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
-2. 🎉 Merged PR [#78](https://github.com/josix/blog/pull/78) in [josix/blog](https://github.com/josix/blog)
-3. 💪 Opened PR [#78](https://github.com/josix/blog/pull/78) in [josix/blog](https://github.com/josix/blog)
-4. ❗️ Closed issue [#344](https://github.com/pycontw/pycontw-frontend/issues/344) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-5. 🎉 Merged PR [#350](https://github.com/pycontw/pycontw-frontend/pull/350) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+1. ❗️ Closed issue [#12](https://github.com/pycontw/pycontw-nginx/issues/12) in [pycontw/pycontw-nginx](https://github.com/pycontw/pycontw-nginx)
+2. 🎉 Merged PR [#13](https://github.com/pycontw/pycontw-nginx/pull/13) in [pycontw/pycontw-nginx](https://github.com/pycontw/pycontw-nginx)
+3. 💪 Opened PR [#355](https://github.com/pycontw/pycontw-frontend/pull/355) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+4. ❗️ Opened issue [#42](https://github.com/pycontw/pycon_archive_past_website/issues/42) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
+5. 🎉 Merged PR [#78](https://github.com/josix/blog/pull/78) in [josix/blog](https://github.com/josix/blog)
 <!--END_SECTION:activity-->
 
 
