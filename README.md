@@ -32,8 +32,8 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1108](https://github.com/pycontw/pycon.tw/issues/1108) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-2. 💪 Opened PR [#1108](https://github.com/pycontw/pycon.tw/pull/1108) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+1. ❗️ Closed issue [#1107](https://github.com/pycontw/pycon.tw/issues/1107) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+2. 🎉 Merged PR [#1108](https://github.com/pycontw/pycon.tw/pull/1108) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
 3. 🗣 Commented on [#356](https://github.com/pycontw/pycontw-frontend/issues/356) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
 4. 🗣 Commented on [#356](https://github.com/pycontw/pycontw-frontend/issues/356) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
 5. 🗣 Commented on [#355](https://github.com/pycontw/pycontw-frontend/issues/355) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
