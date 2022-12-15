@@ -5,6 +5,7 @@
 class Josix:
     pronouns: Union[Literal["he"], Literal["him"]]
     website: str = "https://josix.tw"
+    digital_garden: str = "http://note.josix.tw/"
     email: str = "josixwang(at)gmail.com"
     languages: List[str] = ["zh-tw", "en-us"]
     code: List[str] = ["Python", "JavaScript"]
