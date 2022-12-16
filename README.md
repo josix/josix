@@ -33,7 +33,7 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#354](https://github.com/pycontw/pycontw-frontend/issues/354) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+1. 🎉 Merged PR [#79](https://github.com/josix/blog/pull/79) in [josix/blog](https://github.com/josix/blog)
 2. 🎉 Merged PR [#355](https://github.com/pycontw/pycontw-frontend/pull/355) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
 3. ❗️ Closed issue [#1107](https://github.com/pycontw/pycon.tw/issues/1107) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
 4. 🎉 Merged PR [#1108](https://github.com/pycontw/pycon.tw/pull/1108) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
