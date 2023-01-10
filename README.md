@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1112](https://github.com/pycontw/pycon.tw/issues/1112) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-2. ❗️ Opened issue [#363](https://github.com/pycontw/pycontw-frontend/issues/363) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-3. ❗️ Closed issue [#1111](https://github.com/pycontw/pycon.tw/issues/1111) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-4. 🎉 Merged PR [#1110](https://github.com/pycontw/pycon.tw/pull/1110) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-5. ❗️ Closed issue [#8](https://github.com/pycontw/session-video-publisher/issues/8) in [pycontw/session-video-publisher](https://github.com/pycontw/session-video-publisher)
+1. ❗️ Closed issue [#364](https://github.com/pycontw/pycontw-frontend/issues/364) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+2. 🗣 Commented on [#364](https://github.com/pycontw/pycontw-frontend/issues/364) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+3. 🎉 Merged PR [#365](https://github.com/pycontw/pycontw-frontend/pull/365) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+4. ❗️ Opened issue [#1112](https://github.com/pycontw/pycon.tw/issues/1112) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+5. ❗️ Opened issue [#363](https://github.com/pycontw/pycontw-frontend/issues/363) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
 <!--END_SECTION:activity-->
 
 
