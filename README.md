@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#395](https://github.com/python/python-docs-zh-tw/pull/395) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. 💪 Opened PR [#395](https://github.com/python/python-docs-zh-tw/pull/395) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. ❗️ Closed issue [#388](https://github.com/python/python-docs-zh-tw/issues/388) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 🎉 Merged PR [#389](https://github.com/python/python-docs-zh-tw/pull/389) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🎉 Merged PR [#1116](https://github.com/pycontw/pycon.tw/pull/1116) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+1. 🗣 Commented on [#14](https://github.com/pycontw/session-video-publisher/issues/14) in [pycontw/session-video-publisher](https://github.com/pycontw/session-video-publisher)
+2. ❌ Closed PR [#14](https://github.com/pycontw/session-video-publisher/pull/14) in [pycontw/session-video-publisher](https://github.com/pycontw/session-video-publisher)
+3. 🎉 Merged PR [#395](https://github.com/python/python-docs-zh-tw/pull/395) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. 💪 Opened PR [#395](https://github.com/python/python-docs-zh-tw/pull/395) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. ❗️ Closed issue [#388](https://github.com/python/python-docs-zh-tw/issues/388) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
 
