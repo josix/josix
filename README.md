@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#377](https://github.com/pycontw/pycontw-frontend/pull/377) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-2. 🗣 Commented on [#11116](https://github.com/airbytehq/airbyte/issues/11116) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-3. 🎉 Merged PR [#1117](https://github.com/pycontw/pycon.tw/pull/1117) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-4. 🗣 Commented on [#14](https://github.com/pycontw/session-video-publisher/issues/14) in [pycontw/session-video-publisher](https://github.com/pycontw/session-video-publisher)
-5. ❌ Closed PR [#14](https://github.com/pycontw/session-video-publisher/pull/14) in [pycontw/session-video-publisher](https://github.com/pycontw/session-video-publisher)
+1. 💪 Opened PR [#1118](https://github.com/pycontw/pycon.tw/pull/1118) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+2. 🎉 Merged PR [#377](https://github.com/pycontw/pycontw-frontend/pull/377) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+3. 🗣 Commented on [#11116](https://github.com/airbytehq/airbyte/issues/11116) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
+4. 🎉 Merged PR [#1117](https://github.com/pycontw/pycon.tw/pull/1117) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+5. 🗣 Commented on [#14](https://github.com/pycontw/session-video-publisher/issues/14) in [pycontw/session-video-publisher](https://github.com/pycontw/session-video-publisher)
 <!--END_SECTION:activity-->
 
 
