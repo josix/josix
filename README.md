@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/pycontw/session-video-publisher/pull/18) in [pycontw/session-video-publisher](https://github.com/pycontw/session-video-publisher)
-2. 🎉 Merged PR [#1120](https://github.com/pycontw/pycon.tw/pull/1120) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-3. 🗣 Commented on [#1120](https://github.com/pycontw/pycon.tw/issues/1120) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-4. 🎉 Merged PR [#1118](https://github.com/pycontw/pycon.tw/pull/1118) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-5. 🗣 Commented on [#1118](https://github.com/pycontw/pycon.tw/issues/1118) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+1. 🗣 Commented on [#1120](https://github.com/pycontw/pycon.tw/issues/1120) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+2. 🎉 Merged PR [#18](https://github.com/pycontw/session-video-publisher/pull/18) in [pycontw/session-video-publisher](https://github.com/pycontw/session-video-publisher)
+3. 🎉 Merged PR [#1120](https://github.com/pycontw/pycon.tw/pull/1120) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+4. 🗣 Commented on [#1120](https://github.com/pycontw/pycon.tw/issues/1120) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+5. 🎉 Merged PR [#1118](https://github.com/pycontw/pycon.tw/pull/1118) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
 <!--END_SECTION:activity-->
 
 
