@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#403](https://github.com/pycontw/pycontw-frontend/issues/403) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-2. 🎉 Merged PR [#404](https://github.com/pycontw/pycontw-frontend/pull/404) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-3. 🗣 Commented on [#15500](https://github.com/airbytehq/airbyte/issues/15500) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-4. 🗣 Commented on [#400](https://github.com/pycontw/pycontw-frontend/issues/400) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-5. ❗️ Closed issue [#394](https://github.com/pycontw/pycontw-frontend/issues/394) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+1. 🎉 Merged PR [#402](https://github.com/pycontw/pycontw-frontend/pull/402) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+2. ❗️ Closed issue [#403](https://github.com/pycontw/pycontw-frontend/issues/403) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+3. 🎉 Merged PR [#404](https://github.com/pycontw/pycontw-frontend/pull/404) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+4. 🗣 Commented on [#15500](https://github.com/airbytehq/airbyte/issues/15500) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
+5. 🗣 Commented on [#400](https://github.com/pycontw/pycontw-frontend/issues/400) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
 <!--END_SECTION:activity-->
 
 
