@@ -37,7 +37,7 @@ class Josix:
 2. 🗣 Commented on [#1141](https://github.com/pycontw/pycon.tw/issues/1141) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
 3. 🎉 Merged PR [#400](https://github.com/pycontw/pycontw-frontend/pull/400) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
 4. 🗣 Commented on [#388](https://github.com/pycontw/pycontw-frontend/issues/388) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-5. ❗️ Closed issue [#381](https://github.com/pycontw/pycontw-frontend/issues/381) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+5. 🔒 Closed issue [#381](https://github.com/pycontw/pycontw-frontend/issues/381) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
 <!--END_SECTION:activity-->
 
 
