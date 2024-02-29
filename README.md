@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#825](https://github.com/python/python-docs-zh-tw/pull/825) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. 🔒 Closed issue [#1156](https://github.com/pycontw/pycon.tw/issues/1156) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-3. 🎉 Merged PR [#1157](https://github.com/pycontw/pycon.tw/pull/1157) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
-4. 🗣 Commented on [#43](https://github.com/pycontw/pycon_archive_past_website/pull/43#issuecomment-1911555613) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
-5. 🎉 Merged PR [#43](https://github.com/pycontw/pycon_archive_past_website/pull/43) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
+1. 💪 Opened PR [#996](https://github.com/commitizen-tools/commitizen/pull/996) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 💪 Opened PR [#825](https://github.com/python/python-docs-zh-tw/pull/825) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 🔒 Closed issue [#1156](https://github.com/pycontw/pycon.tw/issues/1156) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+4. 🎉 Merged PR [#1157](https://github.com/pycontw/pycon.tw/pull/1157) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+5. 🗣 Commented on [#43](https://github.com/pycontw/pycon_archive_past_website/pull/43#issuecomment-1911555613) in [pycontw/pycon_archive_past_website](https://github.com/pycontw/pycon_archive_past_website)
 <!--END_SECTION:activity-->
 
 
