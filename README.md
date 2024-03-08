@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#138](https://github.com/pycontw/pycontw-frontend/pull/138) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-2. 🗣 Commented on [#138](https://github.com/pycontw/pycontw-frontend/pull/138#issuecomment-1972957333) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-3. 🗣 Commented on [#421](https://github.com/pycontw/pycontw-frontend/pull/421#issuecomment-1972950741) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-4. ❌ Closed PR [#421](https://github.com/pycontw/pycontw-frontend/pull/421) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-5. 💪 Opened PR [#996](https://github.com/commitizen-tools/commitizen/pull/996) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#15500](https://github.com/airbytehq/airbyte/issues/15500#issuecomment-1985579188) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
+2. 🗣 Commented on [#37449](https://github.com/apache/airflow/issues/37449#issuecomment-1985553064) in [apache/airflow](https://github.com/apache/airflow)
+3. ❌ Closed PR [#138](https://github.com/pycontw/pycontw-frontend/pull/138) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+4. 🗣 Commented on [#138](https://github.com/pycontw/pycontw-frontend/pull/138#issuecomment-1972957333) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+5. 🗣 Commented on [#421](https://github.com/pycontw/pycontw-frontend/pull/421#issuecomment-1972950741) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
 <!--END_SECTION:activity-->
 
 
