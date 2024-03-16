@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#996](https://github.com/commitizen-tools/commitizen/pull/996#issuecomment-1987605886) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#15500](https://github.com/airbytehq/airbyte/issues/15500#issuecomment-1985579188) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-3. 🗣 Commented on [#37449](https://github.com/apache/airflow/issues/37449#issuecomment-1985553064) in [apache/airflow](https://github.com/apache/airflow)
-4. ❌ Closed PR [#138](https://github.com/pycontw/pycontw-frontend/pull/138) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-5. 🗣 Commented on [#138](https://github.com/pycontw/pycontw-frontend/pull/138#issuecomment-1972957333) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+1. 🗣 Commented on [#1142](https://github.com/pycontw/pycon.tw/issues/1142#issuecomment-2002096919) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+2. 🔒 Closed issue [#1142](https://github.com/pycontw/pycon.tw/issues/1142) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
+3. 🗣 Commented on [#996](https://github.com/commitizen-tools/commitizen/pull/996#issuecomment-1987605886) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#15500](https://github.com/airbytehq/airbyte/issues/15500#issuecomment-1985579188) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
+5. 🗣 Commented on [#37449](https://github.com/apache/airflow/issues/37449#issuecomment-1985553064) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 
