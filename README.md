@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41340](https://github.com/apache/airflow/issues/41340#issuecomment-2277610395) in [apache/airflow](https://github.com/apache/airflow)
-2. ❗ Opened issue [#41336](https://github.com/apache/airflow/issues/41336) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#16](https://github.com/airbytehq/airbyte-dbt-models/issues/16#issuecomment-2275916149) in [airbytehq/airbyte-dbt-models](https://github.com/airbytehq/airbyte-dbt-models)
-4. 💪 Opened PR [#41335](https://github.com/apache/airflow/pull/41335) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#41332](https://github.com/apache/airflow/issues/41332#issuecomment-2275884038) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#41365](https://github.com/apache/airflow/issues/41365#issuecomment-2280354521) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#41340](https://github.com/apache/airflow/issues/41340#issuecomment-2277610395) in [apache/airflow](https://github.com/apache/airflow)
+3. ❗ Opened issue [#41336](https://github.com/apache/airflow/issues/41336) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#16](https://github.com/airbytehq/airbyte-dbt-models/issues/16#issuecomment-2275916149) in [airbytehq/airbyte-dbt-models](https://github.com/airbytehq/airbyte-dbt-models)
+5. 💪 Opened PR [#41335](https://github.com/apache/airflow/pull/41335) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 
