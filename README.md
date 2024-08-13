@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30716](https://github.com/apache/airflow/issues/30716#issuecomment-2285520609) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#16](https://github.com/airbytehq/airbyte-dbt-models/issues/16#issuecomment-2284846980) in [airbytehq/airbyte-dbt-models](https://github.com/airbytehq/airbyte-dbt-models)
-3. 🗣 Commented on [#41365](https://github.com/apache/airflow/issues/41365#issuecomment-2280354521) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#41340](https://github.com/apache/airflow/issues/41340#issuecomment-2277610395) in [apache/airflow](https://github.com/apache/airflow)
-5. ❗ Opened issue [#41336](https://github.com/apache/airflow/issues/41336) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#16](https://github.com/airbytehq/airbyte-dbt-models/issues/16#issuecomment-2286562581) in [airbytehq/airbyte-dbt-models](https://github.com/airbytehq/airbyte-dbt-models)
+2. 🗣 Commented on [#30716](https://github.com/apache/airflow/issues/30716#issuecomment-2285520609) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#16](https://github.com/airbytehq/airbyte-dbt-models/issues/16#issuecomment-2284846980) in [airbytehq/airbyte-dbt-models](https://github.com/airbytehq/airbyte-dbt-models)
+4. 🗣 Commented on [#41365](https://github.com/apache/airflow/issues/41365#issuecomment-2280354521) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#41340](https://github.com/apache/airflow/issues/41340#issuecomment-2277610395) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 
