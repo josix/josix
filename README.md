@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#574](https://github.com/pycontw/pycontw-frontend/pull/574) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
-2. 💪 Opened PR [#41554](https://github.com/apache/airflow/pull/41554) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#16](https://github.com/airbytehq/airbyte-dbt-models/issues/16#issuecomment-2286562581) in [airbytehq/airbyte-dbt-models](https://github.com/airbytehq/airbyte-dbt-models)
-4. 🗣 Commented on [#30716](https://github.com/apache/airflow/issues/30716#issuecomment-2285520609) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#16](https://github.com/airbytehq/airbyte-dbt-models/issues/16#issuecomment-2284846980) in [airbytehq/airbyte-dbt-models](https://github.com/airbytehq/airbyte-dbt-models)
+1. 🎉 Merged PR [#574](https://github.com/pycontw/pycontw-frontend/pull/574) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+2. 💪 Opened PR [#574](https://github.com/pycontw/pycontw-frontend/pull/574) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+3. 💪 Opened PR [#41554](https://github.com/apache/airflow/pull/41554) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#16](https://github.com/airbytehq/airbyte-dbt-models/issues/16#issuecomment-2286562581) in [airbytehq/airbyte-dbt-models](https://github.com/airbytehq/airbyte-dbt-models)
+5. 🗣 Commented on [#30716](https://github.com/apache/airflow/issues/30716#issuecomment-2285520609) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 
