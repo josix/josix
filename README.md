@@ -17,7 +17,7 @@ class Josix:
         "network embedding",
     ]
     communities: dict[str, list[str]] = {
-        "volunteer": ["PyConTW'19", "PyConTW'20", "PyConTW'21", "PyConAPAC'22"],
+        "volunteer": ["PyConTW'19", "PyConTW'20", "PyConTW'21", "PyConAPAC'22", "PyConTW'24"],
         "team_lead": ["PyConTW'21", "PyConAPAC'22", "PyConTW'23"],
     }
     technologies: dict[str, list[str]] = {
