@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#988](https://github.com/python/python-docs-zh-tw/issues/988) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. 🎉 Merged PR [#987](https://github.com/python/python-docs-zh-tw/pull/987) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. 🗣 Commented on [#42902](https://github.com/apache/airflow/pull/42902#issuecomment-2406531680) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#985](https://github.com/python/python-docs-zh-tw/pull/985) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 💪 Opened PR [#84](https://github.com/josix/blog/pull/84) in [josix/blog](https://github.com/josix/blog)
+1. 🗣 Commented on [#986](https://github.com/python/python-docs-zh-tw/pull/986#issuecomment-2408556637) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. 🔒 Closed issue [#988](https://github.com/python/python-docs-zh-tw/issues/988) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 🎉 Merged PR [#987](https://github.com/python/python-docs-zh-tw/pull/987) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. 🗣 Commented on [#42902](https://github.com/apache/airflow/pull/42902#issuecomment-2406531680) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#985](https://github.com/python/python-docs-zh-tw/pull/985) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
 
