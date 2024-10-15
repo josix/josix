@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43024](https://github.com/apache/airflow/pull/43024) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#42930](https://github.com/apache/airflow/issues/42930#issuecomment-2409586771) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#986](https://github.com/python/python-docs-zh-tw/pull/986#issuecomment-2408556637) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 🔒 Closed issue [#988](https://github.com/python/python-docs-zh-tw/issues/988) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🎉 Merged PR [#987](https://github.com/python/python-docs-zh-tw/pull/987) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 💪 Opened PR [#1262](https://github.com/commitizen-tools/commitizen/pull/1262) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 💪 Opened PR [#43024](https://github.com/apache/airflow/pull/43024) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#42930](https://github.com/apache/airflow/issues/42930#issuecomment-2409586771) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#986](https://github.com/python/python-docs-zh-tw/pull/986#issuecomment-2408556637) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. 🔒 Closed issue [#988](https://github.com/python/python-docs-zh-tw/issues/988) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
 
