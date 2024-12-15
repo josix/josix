@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/josix/blog/pull/90) in [josix/blog](https://github.com/josix/blog)
-2. 🎉 Merged PR [#89](https://github.com/josix/blog/pull/89) in [josix/blog](https://github.com/josix/blog)
-3. 🎉 Merged PR [#88](https://github.com/josix/blog/pull/88) in [josix/blog](https://github.com/josix/blog)
-4. 🎉 Merged PR [#87](https://github.com/josix/blog/pull/87) in [josix/blog](https://github.com/josix/blog)
-5. 🎉 Merged PR [#86](https://github.com/josix/blog/pull/86) in [josix/blog](https://github.com/josix/blog)
+1. 🎉 Merged PR [#91](https://github.com/josix/blog/pull/91) in [josix/blog](https://github.com/josix/blog)
+2. 🎉 Merged PR [#90](https://github.com/josix/blog/pull/90) in [josix/blog](https://github.com/josix/blog)
+3. 🎉 Merged PR [#89](https://github.com/josix/blog/pull/89) in [josix/blog](https://github.com/josix/blog)
+4. 🎉 Merged PR [#88](https://github.com/josix/blog/pull/88) in [josix/blog](https://github.com/josix/blog)
+5. 🎉 Merged PR [#87](https://github.com/josix/blog/pull/87) in [josix/blog](https://github.com/josix/blog)
 <!--END_SECTION:activity-->
 
 
