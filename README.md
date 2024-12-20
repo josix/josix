@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/josix/blog/pull/93) in [josix/blog](https://github.com/josix/blog)
-2. 🎉 Merged PR [#92](https://github.com/josix/blog/pull/92) in [josix/blog](https://github.com/josix/blog)
-3. 💪 Opened PR [#1007](https://github.com/python/python-docs-zh-tw/pull/1007) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 💪 Opened PR [#1006](https://github.com/python/python-docs-zh-tw/pull/1006) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🎉 Merged PR [#91](https://github.com/josix/blog/pull/91) in [josix/blog](https://github.com/josix/blog)
+1. 🎉 Merged PR [#94](https://github.com/josix/blog/pull/94) in [josix/blog](https://github.com/josix/blog)
+2. 🎉 Merged PR [#93](https://github.com/josix/blog/pull/93) in [josix/blog](https://github.com/josix/blog)
+3. 🎉 Merged PR [#92](https://github.com/josix/blog/pull/92) in [josix/blog](https://github.com/josix/blog)
+4. 💪 Opened PR [#1007](https://github.com/python/python-docs-zh-tw/pull/1007) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. 💪 Opened PR [#1006](https://github.com/python/python-docs-zh-tw/pull/1006) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
 
