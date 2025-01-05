@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/josix/knowledge-base/pull/12) in [josix/knowledge-base](https://github.com/josix/knowledge-base)
-2. 🎉 Merged PR [#11](https://github.com/josix/knowledge-base/pull/11) in [josix/knowledge-base](https://github.com/josix/knowledge-base)
-3. ❌ Closed PR [#10](https://github.com/josix/knowledge-base/pull/10) in [josix/knowledge-base](https://github.com/josix/knowledge-base)
-4. 🎉 Merged PR [#9](https://github.com/josix/knowledge-base/pull/9) in [josix/knowledge-base](https://github.com/josix/knowledge-base)
-5. 🎉 Merged PR [#8](https://github.com/josix/knowledge-base/pull/8) in [josix/knowledge-base](https://github.com/josix/knowledge-base)
+1. 🎉 Merged PR [#13](https://github.com/josix/knowledge-base/pull/13) in [josix/knowledge-base](https://github.com/josix/knowledge-base)
+2. 🎉 Merged PR [#12](https://github.com/josix/knowledge-base/pull/12) in [josix/knowledge-base](https://github.com/josix/knowledge-base)
+3. 🎉 Merged PR [#11](https://github.com/josix/knowledge-base/pull/11) in [josix/knowledge-base](https://github.com/josix/knowledge-base)
+4. ❌ Closed PR [#10](https://github.com/josix/knowledge-base/pull/10) in [josix/knowledge-base](https://github.com/josix/knowledge-base)
+5. 🎉 Merged PR [#9](https://github.com/josix/knowledge-base/pull/9) in [josix/knowledge-base](https://github.com/josix/knowledge-base)
 <!--END_SECTION:activity-->
 
 
