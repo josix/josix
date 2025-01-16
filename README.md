@@ -45,5 +45,4 @@ class Josix:
 ## Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=josix&show_icons=true&](https://github-readme-stats.vercel.app/api?username=josix&show_icons=true&theme=default&count_private=true&card_width=400)" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=josix&hide_border=true" width = 400>
 </p>
