@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45662](https://github.com/apache/airflow/issues/45662#issuecomment-2592468352) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#42720](https://github.com/apache/airflow/issues/42720#issuecomment-2590757216) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#1378](https://github.com/astronomer/astronomer-cosmos/issues/1378#issuecomment-2588046159) in [astronomer/astronomer-cosmos](https://github.com/astronomer/astronomer-cosmos)
-4. 🎉 Merged PR [#95](https://github.com/josix/blog/pull/95) in [josix/blog](https://github.com/josix/blog)
-5. 🎉 Merged PR [#13](https://github.com/josix/knowledge-base/pull/13) in [josix/knowledge-base](https://github.com/josix/knowledge-base)
+1. 🗣 Commented on [#43354](https://github.com/apache/airflow/issues/43354#issuecomment-2592751156) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#45680](https://github.com/apache/airflow/pull/45680) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#45679](https://github.com/apache/airflow/pull/45679) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#45662](https://github.com/apache/airflow/issues/45662#issuecomment-2592468352) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#42720](https://github.com/apache/airflow/issues/42720#issuecomment-2590757216) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 
