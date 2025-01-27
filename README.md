@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46111](https://github.com/apache/airflow/pull/46111) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#46109](https://github.com/apache/airflow/pull/46109) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#46045](https://github.com/apache/airflow/issues/46045#issuecomment-2615018004) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#42720](https://github.com/apache/airflow/issues/42720#issuecomment-2614885804) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#46099](https://github.com/apache/airflow/pull/46099) in [apache/airflow](https://github.com/apache/airflow)
+1. ❌ Closed PR [#46109](https://github.com/apache/airflow/pull/46109) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#46109](https://github.com/apache/airflow/pull/46109#issuecomment-2615176390) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#46111](https://github.com/apache/airflow/pull/46111) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#46109](https://github.com/apache/airflow/pull/46109) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#46045](https://github.com/apache/airflow/issues/46045#issuecomment-2615018004) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 
