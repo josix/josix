@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46735](https://github.com/apache/airflow/issues/46735#issuecomment-2660787084) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#46785](https://github.com/apache/airflow/pull/46785) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#46776](https://github.com/apache/airflow/pull/46776) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#46604](https://github.com/apache/airflow/pull/46604) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#1021](https://github.com/python/python-docs-zh-tw/pull/1021) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 🗣 Commented on [#46782](https://github.com/apache/airflow/issues/46782#issuecomment-2660789858) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#46735](https://github.com/apache/airflow/issues/46735#issuecomment-2660787084) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#46785](https://github.com/apache/airflow/pull/46785) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#46776](https://github.com/apache/airflow/pull/46776) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#46604](https://github.com/apache/airflow/pull/46604) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 
