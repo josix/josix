@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1030](https://github.com/python/python-docs-zh-tw/pull/1030) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. 🎉 Merged PR [#1014](https://github.com/python/python-docs-zh-tw/pull/1014) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. 🗣 Commented on [#2883](https://github.com/Aider-AI/aider/pull/2883#issuecomment-2724537857) in [Aider-AI/aider](https://github.com/Aider-AI/aider)
-4. 🗣 Commented on [#46845](https://github.com/apache/airflow/issues/46845#issuecomment-2664485335) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#46842](https://github.com/apache/airflow/issues/46842#issuecomment-2664473858) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#1030](https://github.com/python/python-docs-zh-tw/pull/1030#issuecomment-2726479320) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. 💪 Opened PR [#1030](https://github.com/python/python-docs-zh-tw/pull/1030) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 🎉 Merged PR [#1014](https://github.com/python/python-docs-zh-tw/pull/1014) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. 🗣 Commented on [#2883](https://github.com/Aider-AI/aider/pull/2883#issuecomment-2724537857) in [Aider-AI/aider](https://github.com/Aider-AI/aider)
+5. 🗣 Commented on [#46845](https://github.com/apache/airflow/issues/46845#issuecomment-2664485335) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 
