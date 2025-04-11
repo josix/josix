@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#48574](https://github.com/apache/airflow/pull/48574) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#48574](https://github.com/apache/airflow/pull/48574) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#48400](https://github.com/apache/airflow/issues/48400#issuecomment-2763525629) in [apache/airflow](https://github.com/apache/airflow)
-4. ❌ Closed PR [#46802](https://github.com/apache/airflow/pull/46802) in [apache/airflow](https://github.com/apache/airflow)
-5. 🔒 Closed issue [#1011](https://github.com/python/python-docs-zh-tw/issues/1011) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 🗣 Commented on [#48400](https://github.com/apache/airflow/issues/48400#issuecomment-2795717383) in [apache/airflow](https://github.com/apache/airflow)
+2. ❌ Closed PR [#48574](https://github.com/apache/airflow/pull/48574) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#48574](https://github.com/apache/airflow/pull/48574) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#48400](https://github.com/apache/airflow/issues/48400#issuecomment-2763525629) in [apache/airflow](https://github.com/apache/airflow)
+5. ❌ Closed PR [#46802](https://github.com/apache/airflow/pull/46802) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 
