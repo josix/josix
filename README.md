@@ -33,10 +33,10 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1102](https://github.com/python/python-docs-zh-tw/pull/1102#issuecomment-3065175671) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. 🗣 Commented on [#1103](https://github.com/python/python-docs-zh-tw/pull/1103#issuecomment-3065149175) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. ❗ Opened issue [#1104](https://github.com/python/python-docs-zh-tw/issues/1104) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 🗣 Commented on [#48400](https://github.com/apache/airflow/issues/48400#issuecomment-2763525629) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#15](https://github.com/josix/knowledge-base/pull/15) in [josix/knowledge-base](https://github.com/josix/knowledge-base)
+2. 🗣 Commented on [#1102](https://github.com/python/python-docs-zh-tw/pull/1102#issuecomment-3065175671) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 🗣 Commented on [#1103](https://github.com/python/python-docs-zh-tw/pull/1103#issuecomment-3065149175) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. ❗ Opened issue [#1104](https://github.com/python/python-docs-zh-tw/issues/1104) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 5. ❌ Closed PR [#46802](https://github.com/apache/airflow/pull/46802) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
