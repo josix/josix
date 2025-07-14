@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1103](https://github.com/python/python-docs-zh-tw/pull/1103#issuecomment-3067069230) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. 🗣 Commented on [#1110](https://github.com/python/python-docs-zh-tw/pull/1110#issuecomment-3067068425) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. 🗣 Commented on [#1110](https://github.com/python/python-docs-zh-tw/pull/1110#issuecomment-3067060847) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 🗣 Commented on [#1110](https://github.com/python/python-docs-zh-tw/pull/1110#issuecomment-3067009630) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🔒 Closed issue [#1104](https://github.com/python/python-docs-zh-tw/issues/1104) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 🗣 Commented on [#1007](https://github.com/python/python-docs-zh-tw/pull/1007#issuecomment-3068697618) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. ❌ Closed PR [#1007](https://github.com/python/python-docs-zh-tw/pull/1007) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 🗣 Commented on [#1103](https://github.com/python/python-docs-zh-tw/pull/1103#issuecomment-3067069230) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. 🗣 Commented on [#1110](https://github.com/python/python-docs-zh-tw/pull/1110#issuecomment-3067068425) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. 🗣 Commented on [#1110](https://github.com/python/python-docs-zh-tw/pull/1110#issuecomment-3067060847) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
 
