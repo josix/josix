@@ -33,11 +33,11 @@ class Josix:
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1007](https://github.com/python/python-docs-zh-tw/pull/1007#issuecomment-3068697618) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. ❌ Closed PR [#1007](https://github.com/python/python-docs-zh-tw/pull/1007) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. 🗣 Commented on [#1103](https://github.com/python/python-docs-zh-tw/pull/1103#issuecomment-3067069230) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 🗣 Commented on [#1110](https://github.com/python/python-docs-zh-tw/pull/1110#issuecomment-3067068425) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🗣 Commented on [#1110](https://github.com/python/python-docs-zh-tw/pull/1110#issuecomment-3067060847) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 🎉 Merged PR [#98](https://github.com/josix/blog/pull/98) in [josix/blog](https://github.com/josix/blog)
+2. ❌ Closed PR [#16](https://github.com/josix/knowledge-base/pull/16) in [josix/knowledge-base](https://github.com/josix/knowledge-base)
+3. 🗣 Commented on [#1007](https://github.com/python/python-docs-zh-tw/pull/1007#issuecomment-3068697618) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. ❌ Closed PR [#1007](https://github.com/python/python-docs-zh-tw/pull/1007) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. 🗣 Commented on [#1103](https://github.com/python/python-docs-zh-tw/pull/1103#issuecomment-3067069230) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
 
