@@ -188,12 +188,11 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=josix&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A7A7A7" width="49%" alt="Josix's GitHub Stats">
-  <img src="https://streak-stats.demolab.com/?user=josix&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" width="49%" alt="Josix's GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A7A7A7&langs_count=8" width="49%" alt="Most Used Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A7A7A7&langs_count=8" width="49%" alt="Most Used Languages">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" width="49%" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" width="98%" alt="GitHub Activity Graph">
 </p>
 
 ## Recent Activity
