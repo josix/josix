@@ -74,11 +74,11 @@ class Josix:
 
 I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) covering diverse topics including:
 
-- **Data Science & ML**: [Okapi BM25](http://note.josix.tw/okapi-bm25), [PECOS](http://note.josix.tw/pecos), [graph learning](http://note.josix.tw/graph-learning), [probabilistic methods](http://note.josix.tw/probabilistic-methods)
-- **Software Engineering**: [Database systems](http://note.josix.tw/database-systems), [testing methodologies](http://note.josix.tw/testing), [Kafka](http://note.josix.tw/kafka), [legacy code management](http://note.josix.tw/legacy-code)
-- **Management & Leadership**: [Leadership coaching](http://note.josix.tw/leadership-coaching), [performance improvement](http://note.josix.tw/performance-improvement), [communication skills](http://note.josix.tw/communication)
-- **Personal Development**: [Mindset development](http://note.josix.tw/mindset), [emotional intelligence](http://note.josix.tw/emotional-intelligence), [productivity techniques](http://note.josix.tw/productivity)
-- **Design**: [Material Design principles](http://note.josix.tw/material-design), [UI/UX concepts](http://note.josix.tw/ui-ux), [pixel density](http://note.josix.tw/pixel-density)
+- **Data Science & ML**: [Okapi BM25](https://github.com/josix/knowledge-base/blob/main/data-science/Okapi%20BM25.md), [PECOS](https://github.com/josix/knowledge-base/blob/main/data-science/PECOS.md), graph learning, probabilistic methods
+- **Software Engineering**: Database systems, testing methodologies, [Kafka](https://github.com/josix/knowledge-base/blob/main/software-engineer/tools/kafka/spark-kafka-offset-range-calculation-and-row-counting.md), legacy code management
+- **Management & Leadership**: Leadership coaching, performance improvement, communication skills
+- **Personal Development**: Mindset development, emotional intelligence, productivity techniques
+- **Design**: [Material Design](https://github.com/josix/knowledge-base/blob/main/design/material-design/Material%20Design.md), UI/UX concepts, [pixel density](https://github.com/josix/knowledge-base/blob/main/design/density%20independent%20pixel.md)
 
 ## 🚀 Expertise
 
