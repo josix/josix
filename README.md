@@ -74,11 +74,11 @@ class Josix:
 
 I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) covering diverse topics including:
 
-- **Data Science & ML**: [Okapi BM25](https://github.com/josix/knowledge-base/blob/main/data-science/Okapi%20BM25.md), [PECOS](https://github.com/josix/knowledge-base/blob/main/data-science/PECOS.md), graph learning, probabilistic methods
-- **Software Engineering**: Database systems, testing methodologies, [Kafka](https://github.com/josix/knowledge-base/blob/main/software-engineer/tools/kafka/spark-kafka-offset-range-calculation-and-row-counting.md), legacy code management
+- **Data Science & ML**: Okapi BM25, PECOS, graph learning, probabilistic methods
+- **Software Engineering**: Database systems, testing methodologies, Kafka, legacy code management
 - **Management & Leadership**: Leadership coaching, performance improvement, communication skills
 - **Personal Development**: Mindset development, emotional intelligence, productivity techniques
-- **Design**: [Material Design](https://github.com/josix/knowledge-base/blob/main/design/material-design/Material%20Design.md), UI/UX concepts, [pixel density](https://github.com/josix/knowledge-base/blob/main/design/density%20independent%20pixel.md)
+- **Design**: Material Design, UI/UX concepts, pixel density
 
 ## 🚀 Expertise
 
