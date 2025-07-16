@@ -21,13 +21,23 @@ class Josix:
     digital_garden: str = "http://note.josix.tw/"
     email: str = "josixwang(at)gmail.com"
     languages: list[str] = ["zh-tw", "en-us"]
-    code: list[str] = ["Python", "JavaScript"]
+    code: list[str] = ["Python", "JavaScript", "TypeScript"]
+    expertise: list[str] = [
+        "machine learning",
+        "recommender systems", 
+        "network embedding",
+        "graph learning",
+        "full-stack development",
+        "data science"
+    ]
     ask_me_about: list[str] = [
         "web dev",
         "tech",
         "machine learning",
         "recommender system",
         "network embedding",
+        "python conferences",
+        "open source"
     ]
     communities: dict[str, list[str]] = {
         "volunteer": ["PyConTW'19", "PyConTW'20", "PyConTW'21", "PyConAPAC'22", "PyConTW'24"],
@@ -40,6 +50,15 @@ class Josix:
         "shell": ["bash", "zsh"],
         "machine_learning": ["pytorch", "pytorch-geometric"],
         "editors": ["vscode", "vim"],
+        "databases": ["postgresql", "mongodb", "redis"],
+        "cloud": ["aws", "gcp", "kubernetes"]
+    }
+    interests: dict[str, list[str]] = {
+        "data_science": ["okapi bm25", "pecos", "graph learning", "probabilistic methods"],
+        "software_engineering": ["database systems", "testing", "kafka", "legacy code"],
+        "management": ["leadership coaching", "performance improvement", "communication"],
+        "personal_development": ["mindset", "emotional intelligence", "productivity"],
+        "design": ["material design", "ui/ux", "pixel density"]
     }
 ```
 
@@ -50,6 +69,23 @@ class Josix:
   <a href="http://note.josix.tw/"><img src="https://img.shields.io/badge/Digital_Garden-note.josix.tw-green?style=for-the-badge&logo=obsidian&logoColor=white" alt="Digital Garden"></a>
   <a href="mailto:josixwang@gmail.com"><img src="https://img.shields.io/badge/Email-josixwang@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+## 🌱 Digital Garden
+
+I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) covering diverse topics including:
+
+- **Data Science & ML**: [Okapi BM25](http://note.josix.tw/okapi-bm25), [PECOS](http://note.josix.tw/pecos), [graph learning](http://note.josix.tw/graph-learning), [probabilistic methods](http://note.josix.tw/probabilistic-methods)
+- **Software Engineering**: [Database systems](http://note.josix.tw/database-systems), [testing methodologies](http://note.josix.tw/testing), [Kafka](http://note.josix.tw/kafka), [legacy code management](http://note.josix.tw/legacy-code)
+- **Management & Leadership**: [Leadership coaching](http://note.josix.tw/leadership-coaching), [performance improvement](http://note.josix.tw/performance-improvement), [communication skills](http://note.josix.tw/communication)
+- **Personal Development**: [Mindset development](http://note.josix.tw/mindset), [emotional intelligence](http://note.josix.tw/emotional-intelligence), [productivity techniques](http://note.josix.tw/productivity)
+- **Design**: [Material Design principles](http://note.josix.tw/material-design), [UI/UX concepts](http://note.josix.tw/ui-ux), [pixel density](http://note.josix.tw/pixel-density)
+
+## 🚀 Expertise
+
+- **Machine Learning**: Specializing in recommender systems and network embedding
+- **Full-Stack Development**: Building scalable web applications with modern frameworks
+- **Community Leadership**: Active contributor and team lead in Python conferences
+- **Open Source**: Passionate about contributing to and maintaining open-source projects
 
 ## 🎯 Fun Facts & Interests
 
