@@ -1,6 +1,14 @@
-# Hey there! I'm Josix
+# Hey there! I'm Josix 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=josix&color=blue&style=flat)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Python+Engineer+%7C+ML+Enthusiast;Community+Leader+%7C+Open+Source;Building+the+Future+with+Code" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=josix&color=brightgreen&style=flat&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/josix?style=flat&logo=github&color=blue&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Python%20%7C%20ML%20%7C%20Community-brightgreen" alt="Focus" />
+</p>
 
 ## About Me
 
@@ -65,12 +73,9 @@ class Josix:
 <p align="center">
   <a href="https://josix.tw"><img src="https://img.shields.io/badge/Website-josix.tw-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="http://note.josix.tw/"><img src="https://img.shields.io/badge/Digital_Garden-note.josix.tw-green?style=for-the-badge&logo=obsidian&logoColor=white" alt="Digital Garden"></a>
+  <a href="https://www.linkedin.com/in/josixwang/"><img src="https://img.shields.io/badge/LinkedIn-josixwang-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:josixwang@gmail.com"><img src="https://img.shields.io/badge/Email-josixwang@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
-## Philosophy & Approach
-
-> *"Every day is day one"* - I maintain a beginner's mind while building tools that solve real problems and make life more convenient.
 
 ## Digital Garden
 
@@ -81,6 +86,51 @@ I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) and [
 - **Data Architecture**: Modern database systems, distributed data processing, lakehouse patterns
 - **Management & Leadership**: Leadership coaching, performance improvement, communication skills
 - **Personal Development**: Mindset development, emotional intelligence, productivity techniques
+
+## Notable Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 [awesome-claude-md](https://github.com/josix/awesome-claude-md)
+Curated collection of exemplary claude.md files and onboarding patterns for AI development workflows. Includes analyses, best practices, and templates.
+
+**Tech Stack:** Documentation, AI Tools, Best Practices  
+⭐ **3 stars** | 📝 **Templates & Guides**
+
+</td>
+<td width="50%">
+
+### 📚 [Personal Tech Blog](https://github.com/josix/blog)
+Technical blog and knowledge base covering Python engineering, ML systems, and data architecture. Built with modern web technologies.
+
+**Tech Stack:** JavaScript, Web Development  
+⭐ **1 star** | 🌐 **Live at [josix.tw](https://josix.tw)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐍 [Python Docs zh-TW](https://github.com/python/python-docs-zh-tw)
+Contributing to the Traditional Chinese translation of Python Documentation - helping make Python accessible to Chinese-speaking developers.
+
+**Tech Stack:** Python, Documentation, Translation  
+⭐ **Large Community Project** | 🌍 **Open Source**
+
+</td>
+<td width="50%">
+
+### ⚡ [Apache Airflow](https://github.com/apache/airflow)
+Contributing to the world's most popular workflow orchestration platform. Focus on data pipeline optimization and workflow management.
+
+**Tech Stack:** Python, Data Engineering, Orchestration  
+⭐ **36k+ stars** | 🏢 **Enterprise Scale**
+
+</td>
+</tr>
+</table>
 
 ## Expertise
 
@@ -107,7 +157,15 @@ I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) and [
 
 ## Achievements & Contributions
 
-[![@josix's Holopin board](https://holopin.io/api/user/board?user=josix)](https://holopin.io/@josix)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=josix&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@josix">
+    <img src="https://holopin.io/api/user/board?user=josix" alt="Holopin Board" />
+  </a>
+</p>
 
 ### Community Leadership
 - **Team Lead**: PyConTW'21, PyConAPAC'22, PyConTW'23
@@ -129,12 +187,13 @@ I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) and [
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josix&show_icons=true&theme=default&count_private=true&card_width=400" width="400" alt="Josix's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josix&theme=default" width="400" alt="Josix's GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=josix&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A7A7A7" width="49%" alt="Josix's GitHub Stats">
+  <img src="https://streak-stats.demolab.com/?user=josix&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" width="49%" alt="Josix's GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josix&layout=compact&theme=default&card_width=400" width="400" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A7A7A7&langs_count=8" width="49%" alt="Most Used Languages">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" width="49%" alt="GitHub Activity Graph">
 </p>
 
 ## Recent Activity
