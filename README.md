@@ -1,14 +1,14 @@
-# Hey there! 👋 I'm Josix
+# Hey there! I'm Josix
 
 ![Profile Views](https://komarev.com/ghpvc/?username=josix&color=blue&style=flat)
 
-## 🙋‍♂️ About Me
+## About Me
 
 Welcome to my GitHub profile! I'm a passionate software engineer and community organizer based in Taiwan, with a deep interest in web development, machine learning, and recommender systems. I love building things that make a difference and contributing to the open-source community.
 
 > **About this repository**: This is my special profile repository (`josix/josix`) that serves as my GitHub profile page, showcasing my journey, skills, and recent activities in the tech world.
 
-## 👨‍💻 Who Am I?
+## Who Am I?
 ```python
 """For better readability, the following code is not runnable 😆"""
 from dataclasses import dataclass
@@ -62,7 +62,7 @@ class Josix:
     }
 ```
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://josix.tw"><img src="https://img.shields.io/badge/Website-josix.tw-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
@@ -70,7 +70,7 @@ class Josix:
   <a href="mailto:josixwang@gmail.com"><img src="https://img.shields.io/badge/Email-josixwang@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-## 🌱 Digital Garden
+## Digital Garden
 
 I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) covering diverse topics including:
 
@@ -80,14 +80,14 @@ I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) cover
 - **Personal Development**: Mindset development, emotional intelligence, productivity techniques
 - **Design**: Material Design, UI/UX concepts, pixel density
 
-## 🚀 Expertise
+## Expertise
 
 - **Machine Learning**: Specializing in recommender systems and network embedding
 - **Full-Stack Development**: Building scalable web applications with modern frameworks
 - **Community Leadership**: Active contributor and team lead in Python conferences
 - **Open Source**: Passionate about contributing to and maintaining open-source projects
 
-## 🎯 Fun Facts & Interests
+## Fun Facts & Interests
 
 <details>
 <summary>Click to learn more about me! 🔍</summary>
@@ -102,15 +102,15 @@ I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) cover
 
 </details>
 
-## 🏆 Achievements & Contributions
+## Achievements & Contributions
 
 [![@josix's Holopin board](https://holopin.io/api/user/board?user=josix)](https://holopin.io/@josix)
 
-### 🎪 Community Leadership
+### Community Leadership
 - **Team Lead**: PyConTW'21, PyConAPAC'22, PyConTW'23
 - **Volunteer**: PyConTW'19, PyConTW'20, PyConTW'21, PyConAPAC'22, PyConTW'24
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -123,7 +123,7 @@ I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) cover
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </p>
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=josix&show_icons=true&theme=default&count_private=true&card_width=400" width="400" alt="Josix's GitHub Stats">
@@ -134,7 +134,7 @@ I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) cover
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josix&layout=compact&theme=default&card_width=400" width="400" alt="Most Used Languages">
 </p>
 
-## 🚀 Recent Activity
+## Recent Activity
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
@@ -145,12 +145,3 @@ I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) cover
 5. 🗣 Commented on [#1007](https://github.com/python/python-docs-zh-tw/pull/1007#issuecomment-3068697618) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
----
-
-<p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</p>
-
-<p align="center">
-  Thanks for visiting! 😊 Feel free to reach out if you'd like to collaborate or just chat about tech!
-</p>
