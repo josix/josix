@@ -199,10 +199,10 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/josix/josix/issues/1) in [josix/josix](https://github.com/josix/josix)
-2. 🎉 Merged PR [#2](https://github.com/josix/josix/pull/2) in [josix/josix](https://github.com/josix/josix)
-3. 🗣 Commented on [#2](https://github.com/josix/josix/pull/2#issuecomment-3078833410) in [josix/josix](https://github.com/josix/josix)
-4. 🗣 Commented on [#2](https://github.com/josix/josix/pull/2#issuecomment-3078637562) in [josix/josix](https://github.com/josix/josix)
-5. ❗ Opened issue [#1](https://github.com/josix/josix/issues/1) in [josix/josix](https://github.com/josix/josix)
+1. ❌ Closed PR [#16](https://github.com/josix/blog/pull/16) in [josix/blog](https://github.com/josix/blog)
+2. ❌ Closed PR [#30](https://github.com/josix/blog/pull/30) in [josix/blog](https://github.com/josix/blog)
+3. ❌ Closed PR [#34](https://github.com/josix/blog/pull/34) in [josix/blog](https://github.com/josix/blog)
+4. ❌ Closed PR [#84](https://github.com/josix/blog/pull/84) in [josix/blog](https://github.com/josix/blog)
+5. 🔒 Closed issue [#1](https://github.com/josix/josix/issues/1) in [josix/josix](https://github.com/josix/josix)
 <!--END_SECTION:activity-->
 
