@@ -23,21 +23,19 @@ class Josix:
     languages: list[str] = ["zh-tw", "en-us"]
     code: list[str] = ["Python", "JavaScript", "TypeScript"]
     expertise: list[str] = [
-        "machine learning",
-        "recommender systems", 
-        "network embedding",
-        "graph learning",
+        "python engineering",
+        "ml & information retrieval",
+        "data systems",
         "full-stack development",
-        "data science"
+        "community leadership"
     ]
     ask_me_about: list[str] = [
-        "web dev",
-        "tech",
-        "machine learning",
-        "recommender system",
-        "network embedding",
+        "python tooling",
+        "search systems",
+        "ml in production",
+        "data architecture",
         "python conferences",
-        "open source"
+        "productivity tools"
     ]
     communities: dict[str, list[str]] = {
         "volunteer": ["PyConTW'19", "PyConTW'20", "PyConTW'21", "PyConAPAC'22", "PyConTW'24"],
@@ -54,8 +52,8 @@ class Josix:
         "cloud": ["aws", "gcp", "kubernetes"]
     }
     interests: dict[str, list[str]] = {
-        "data_science": ["okapi bm25", "pecos", "graph learning", "probabilistic methods"],
-        "software_engineering": ["database systems", "testing", "kafka", "legacy code"],
+        "data_science": ["learning to rank", "feature engineering", "search optimization"],
+        "software_engineering": ["python ecosystem", "database systems", "performance tuning"],
         "management": ["leadership coaching", "performance improvement", "communication"],
         "personal_development": ["mindset", "emotional intelligence", "productivity"],
         "design": ["material design", "ui/ux", "pixel density"]
@@ -70,22 +68,27 @@ class Josix:
   <a href="mailto:josixwang@gmail.com"><img src="https://img.shields.io/badge/Email-josixwang@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+## Philosophy & Approach
+
+> *"Every day is day one"* - I maintain a beginner's mind while building tools that solve real problems and make life more convenient.
+
 ## Digital Garden
 
-I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) covering diverse topics including:
+I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) and [technical blog](https://josix.tw/) covering:
 
-- **Data Science & ML**: Okapi BM25, PECOS, graph learning, probabilistic methods
-- **Software Engineering**: Database systems, testing methodologies, Kafka, legacy code management
+- **Python Engineering**: Python ecosystem evolution, performance optimization, development workflows
+- **ML Systems**: Learning to Rank, feature engineering, search optimization, production ML
+- **Data Architecture**: Modern database systems, distributed data processing, lakehouse patterns
 - **Management & Leadership**: Leadership coaching, performance improvement, communication skills
 - **Personal Development**: Mindset development, emotional intelligence, productivity techniques
-- **Design**: Material Design, UI/UX concepts, pixel density
 
 ## Expertise
 
-- **Machine Learning**: Specializing in recommender systems and network embedding
-- **Full-Stack Development**: Building scalable web applications with modern frameworks
+- **Python Engineering**: Deep understanding of Python ecosystem, tooling, and performance optimization
+- **ML & Information Retrieval**: Production experience with search ranking, feature engineering, and recommendation systems
+- **Data Systems**: Knowledge of modern data architecture, distributed systems, and database technologies
 - **Community Leadership**: Active contributor and team lead in Python conferences
-- **Open Source**: Passionate about contributing to and maintaining open-source projects
+- **Tool Building**: Creates systems to solve personal and team productivity challenges
 
 ## Fun Facts & Interests
 
