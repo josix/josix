@@ -199,10 +199,10 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1127](https://github.com/python/python-docs-zh-tw/pull/1127) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. 🗣 Commented on [#8](https://github.com/josix/awesome-claude-md/pull/8#issuecomment-3079951375) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
-3. ❌ Closed PR [#16](https://github.com/josix/blog/pull/16) in [josix/blog](https://github.com/josix/blog)
-4. ❌ Closed PR [#30](https://github.com/josix/blog/pull/30) in [josix/blog](https://github.com/josix/blog)
-5. ❌ Closed PR [#34](https://github.com/josix/blog/pull/34) in [josix/blog](https://github.com/josix/blog)
+1. 🗣 Commented on [#8](https://github.com/josix/awesome-claude-md/pull/8#issuecomment-3090269869) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+2. 🎉 Merged PR [#1127](https://github.com/python/python-docs-zh-tw/pull/1127) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 🗣 Commented on [#8](https://github.com/josix/awesome-claude-md/pull/8#issuecomment-3079951375) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+4. ❌ Closed PR [#16](https://github.com/josix/blog/pull/16) in [josix/blog](https://github.com/josix/blog)
+5. ❌ Closed PR [#30](https://github.com/josix/blog/pull/30) in [josix/blog](https://github.com/josix/blog)
 <!--END_SECTION:activity-->
 
