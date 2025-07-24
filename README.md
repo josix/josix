@@ -10,12 +10,6 @@
   <img src="https://img.shields.io/badge/Focus-Python%20%7C%20ML%20%7C%20Community-brightgreen" alt="Focus" />
 </p>
 
-## About Me
-
-Welcome to my GitHub profile! I'm a passionate software engineer and community organizer based in Taiwan, with a deep interest in web development, machine learning, and recommender systems. I love building things that make a difference and contributing to the open-source community.
-
-> **About this repository**: This is my special profile repository (`josix/josix`) that serves as my GitHub profile page, showcasing my journey, skills, and recent activities in the tech world.
-
 ## Who Am I?
 ```python
 """For better readability, the following code is not runnable 😆"""
@@ -93,40 +87,36 @@ I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) and [
 <tr>
 <td width="50%">
 
-### 🚀 [awesome-claude-md](https://github.com/josix/awesome-claude-md)
+#### 🚀 [awesome-claude-md](https://github.com/josix/awesome-claude-md)
 Curated collection of exemplary claude.md files and onboarding patterns for AI development workflows. Includes analyses, best practices, and templates.
 
 **Tech Stack:** Documentation, AI Tools, Best Practices  
-⭐ **3 stars** | 📝 **Templates & Guides**
 
 </td>
 <td width="50%">
 
-### 📚 [Personal Tech Blog](https://github.com/josix/blog)
+#### 📚 [Personal Tech Blog](https://github.com/josix/blog)
 Technical blog and knowledge base covering Python engineering, ML systems, and data architecture. Built with modern web technologies.
 
 **Tech Stack:** JavaScript, Web Development  
-⭐ **1 star** | 🌐 **Live at [josix.tw](https://josix.tw)**
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🐍 [Python Docs zh-TW](https://github.com/python/python-docs-zh-tw)
+#### 🐍 [Python Docs zh-TW](https://github.com/python/python-docs-zh-tw)
 Contributing to the Traditional Chinese translation of Python Documentation - helping make Python accessible to Chinese-speaking developers.
 
 **Tech Stack:** Python, Documentation, Translation  
-⭐ **Large Community Project** | 🌍 **Open Source**
 
 </td>
 <td width="50%">
 
-### ⚡ [Apache Airflow](https://github.com/apache/airflow)
+#### ⚡ [Apache Airflow](https://github.com/apache/airflow)
 Contributing to the world's most popular workflow orchestration platform. Focus on data pipeline optimization and workflow management.
 
 **Tech Stack:** Python, Data Engineering, Orchestration  
-⭐ **36k+ stars** | 🏢 **Enterprise Scale**
 
 </td>
 </tr>
