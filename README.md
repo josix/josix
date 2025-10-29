@@ -189,10 +189,10 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56738](https://github.com/apache/airflow/issues/56738#issuecomment-3430494210) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#56845](undefined) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#56738](https://github.com/apache/airflow/issues/56738#issuecomment-3418743443) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#56827](undefined) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#56738](https://github.com/apache/airflow/issues/56738#issuecomment-3414202551) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#56845](https://github.com/apache/airflow/pull/56845#issuecomment-3462843135) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#56738](https://github.com/apache/airflow/issues/56738#issuecomment-3430494210) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#56845](undefined) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#56738](https://github.com/apache/airflow/issues/56738#issuecomment-3418743443) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#56827](undefined) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
