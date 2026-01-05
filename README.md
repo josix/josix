@@ -189,10 +189,10 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/josix/cosmos/pull/1) in [josix/cosmos](https://github.com/josix/cosmos)
-2. 🔒 Closed issue [#59](https://github.com/josix/awesome-claude-md/issues/59) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
-3. 🔒 Closed issue [#60](https://github.com/josix/awesome-claude-md/issues/60) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
-4. 💪 Opened PR [#1](https://github.com/josix/cosmos/pull/1) in [josix/cosmos](https://github.com/josix/cosmos)
-5. 🔒 Closed issue [#61](https://github.com/josix/awesome-claude-md/issues/61) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+1. 💪 Opened PR [#66](https://github.com/josix/awesome-claude-md/pull/66) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+2. ❌ Closed PR [#1](https://github.com/josix/cosmos/pull/1) in [josix/cosmos](https://github.com/josix/cosmos)
+3. 🔒 Closed issue [#59](https://github.com/josix/awesome-claude-md/issues/59) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+4. 🔒 Closed issue [#60](https://github.com/josix/awesome-claude-md/issues/60) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+5. 💪 Opened PR [#1](https://github.com/josix/cosmos/pull/1) in [josix/cosmos](https://github.com/josix/cosmos)
 <!--END_SECTION:activity-->
 
