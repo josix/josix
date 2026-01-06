@@ -189,10 +189,10 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/josix/gitpy/pull/4) in [josix/gitpy](https://github.com/josix/gitpy)
-2. 🎉 Merged PR [#3](https://github.com/josix/gitpy/pull/3) in [josix/gitpy](https://github.com/josix/gitpy)
-3. 💪 Opened PR [#3](https://github.com/josix/gitpy/pull/3) in [josix/gitpy](https://github.com/josix/gitpy)
-4. 🎉 Merged PR [#2](https://github.com/josix/gitpy/pull/2) in [josix/gitpy](https://github.com/josix/gitpy)
-5. 🎉 Merged PR [#70](https://github.com/josix/awesome-claude-md/pull/70) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+1. 💪 Opened PR [#5](https://github.com/josix/gitpy/pull/5) in [josix/gitpy](https://github.com/josix/gitpy)
+2. 💪 Opened PR [#4](https://github.com/josix/gitpy/pull/4) in [josix/gitpy](https://github.com/josix/gitpy)
+3. 🎉 Merged PR [#3](https://github.com/josix/gitpy/pull/3) in [josix/gitpy](https://github.com/josix/gitpy)
+4. 💪 Opened PR [#3](https://github.com/josix/gitpy/pull/3) in [josix/gitpy](https://github.com/josix/gitpy)
+5. 🎉 Merged PR [#2](https://github.com/josix/gitpy/pull/2) in [josix/gitpy](https://github.com/josix/gitpy)
 <!--END_SECTION:activity-->
 
