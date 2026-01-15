@@ -189,10 +189,10 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/josix/awesome-claude-md/pull/73) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
-2. 💪 Opened PR [#73](https://github.com/josix/awesome-claude-md/pull/73) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
-3. 🎉 Merged PR [#72](https://github.com/josix/awesome-claude-md/pull/72) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
-4. 💪 Opened PR [#72](https://github.com/josix/awesome-claude-md/pull/72) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
-5. 🎉 Merged PR [#71](https://github.com/josix/awesome-claude-md/pull/71) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+1. 🔒 Closed issue [#74](https://github.com/josix/awesome-claude-md/issues/74) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+2. 🎉 Merged PR [#75](https://github.com/josix/awesome-claude-md/pull/75) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+3. 💪 Opened PR [#75](https://github.com/josix/awesome-claude-md/pull/75) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+4. 🎉 Merged PR [#73](https://github.com/josix/awesome-claude-md/pull/73) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+5. 💪 Opened PR [#73](https://github.com/josix/awesome-claude-md/pull/73) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
 <!--END_SECTION:activity-->
 
