@@ -189,10 +189,10 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1195](https://github.com/python/python-docs-zh-tw/pull/1195) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. 🗣 Commented on [#1190](https://github.com/python/python-docs-zh-tw/pull/1190#issuecomment-3783797521) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. ❌ Closed PR [#1006](https://github.com/python/python-docs-zh-tw/pull/1006) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 🗣 Commented on [#1190](https://github.com/python/python-docs-zh-tw/pull/1190#issuecomment-3765021960) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🔒 Closed issue [#74](https://github.com/josix/awesome-claude-md/issues/74) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+1. 💪 Opened PR [#1](https://github.com/josix/dotfiles/pull/1) in [josix/dotfiles](https://github.com/josix/dotfiles)
+2. 💪 Opened PR [#1195](https://github.com/python/python-docs-zh-tw/pull/1195) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 🗣 Commented on [#1190](https://github.com/python/python-docs-zh-tw/pull/1190#issuecomment-3783797521) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. ❌ Closed PR [#1006](https://github.com/python/python-docs-zh-tw/pull/1006) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. 🗣 Commented on [#1190](https://github.com/python/python-docs-zh-tw/pull/1190#issuecomment-3765021960) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
