@@ -189,10 +189,10 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1217](https://github.com/python/python-docs-zh-tw/issues/1217) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. ❗ Opened issue [#1217](https://github.com/python/python-docs-zh-tw/issues/1217) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. ℹ️ Assigned issue [#1216](https://github.com/python/python-docs-zh-tw/issues/1216) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 🗣 Commented on [#1213](https://github.com/python/python-docs-zh-tw/pull/1213#issuecomment-4059634536) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🗣 Commented on [#1208](https://github.com/python/python-docs-zh-tw/pull/1208#issuecomment-4059628047) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 💪 Opened PR [#1896](https://github.com/commitizen-tools/commitizen/pull/1896) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. ℹ️ Assigned issue [#1217](https://github.com/python/python-docs-zh-tw/issues/1217) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. ❗ Opened issue [#1217](https://github.com/python/python-docs-zh-tw/issues/1217) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. ℹ️ Assigned issue [#1216](https://github.com/python/python-docs-zh-tw/issues/1216) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. 🗣 Commented on [#1213](https://github.com/python/python-docs-zh-tw/pull/1213#issuecomment-4059634536) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
