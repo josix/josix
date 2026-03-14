@@ -189,10 +189,10 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1213](https://github.com/python/python-docs-zh-tw/pull/1213#issuecomment-4059634536) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. 🗣 Commented on [#1208](https://github.com/python/python-docs-zh-tw/pull/1208#issuecomment-4059628047) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. 💪 Opened PR [#81](https://github.com/josix/awesome-claude-md/pull/81) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
-4. 💪 Opened PR [#1209](https://github.com/python/python-docs-zh-tw/pull/1209) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🔒 Closed issue [#78](https://github.com/josix/awesome-claude-md/issues/78) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+1. ℹ️ Assigned issue [#1217](https://github.com/python/python-docs-zh-tw/issues/1217) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+2. ❗ Opened issue [#1217](https://github.com/python/python-docs-zh-tw/issues/1217) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. ℹ️ Assigned issue [#1216](https://github.com/python/python-docs-zh-tw/issues/1216) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. 🗣 Commented on [#1213](https://github.com/python/python-docs-zh-tw/pull/1213#issuecomment-4059634536) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. 🗣 Commented on [#1208](https://github.com/python/python-docs-zh-tw/pull/1208#issuecomment-4059628047) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
