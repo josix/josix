@@ -189,10 +189,10 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1896](https://github.com/commitizen-tools/commitizen/pull/1896) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. ℹ️ Assigned issue [#1217](https://github.com/python/python-docs-zh-tw/issues/1217) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. ❗ Opened issue [#1217](https://github.com/python/python-docs-zh-tw/issues/1217) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. ℹ️ Assigned issue [#1216](https://github.com/python/python-docs-zh-tw/issues/1216) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🗣 Commented on [#1213](https://github.com/python/python-docs-zh-tw/pull/1213#issuecomment-4059634536) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+1. 🚀 Published release [v0.1.0](https://github.com/asgard-ai-platform/mcp-shopline/releases/tag/v0.1.0) in [asgard-ai-platform/mcp-shopline](https://github.com/asgard-ai-platform/mcp-shopline)
+2. 🎉 Merged PR [#1](https://github.com/asgard-ai-platform/mcp-shopline/pull/1) in [asgard-ai-platform/mcp-shopline](https://github.com/asgard-ai-platform/mcp-shopline)
+3. 💪 Opened PR [#1](https://github.com/asgard-ai-platform/mcp-shopline/pull/1) in [asgard-ai-platform/mcp-shopline](https://github.com/asgard-ai-platform/mcp-shopline)
+4. 💪 Opened PR [#1896](https://github.com/commitizen-tools/commitizen/pull/1896) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. ℹ️ Assigned issue [#1217](https://github.com/python/python-docs-zh-tw/issues/1217) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
