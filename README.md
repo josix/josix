@@ -189,10 +189,10 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/josix/agent-flow/pull/2) in [josix/agent-flow](https://github.com/josix/agent-flow)
-2. 💪 Opened PR [#1](https://github.com/josix/agent-flow/pull/1) in [josix/agent-flow](https://github.com/josix/agent-flow)
-3. 🎉 Merged PR [#1208](https://github.com/python/python-docs-zh-tw/pull/1208) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 🎉 Merged PR [#2](https://github.com/asgard-ai-platform/mcp-shopline/pull/2) in [asgard-ai-platform/mcp-shopline](https://github.com/asgard-ai-platform/mcp-shopline)
-5. 💪 Opened PR [#2](https://github.com/asgard-ai-platform/mcp-shopline/pull/2) in [asgard-ai-platform/mcp-shopline](https://github.com/asgard-ai-platform/mcp-shopline)
+1. 🔒 Closed issue [#92](https://github.com/josix/awesome-claude-md/issues/92) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+2. 🎉 Merged PR [#93](https://github.com/josix/awesome-claude-md/pull/93) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+3. 💪 Opened PR [#93](https://github.com/josix/awesome-claude-md/pull/93) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+4. 💪 Opened PR [#2](https://github.com/josix/agent-flow/pull/2) in [josix/agent-flow](https://github.com/josix/agent-flow)
+5. 💪 Opened PR [#1](https://github.com/josix/agent-flow/pull/1) in [josix/agent-flow](https://github.com/josix/agent-flow)
 <!--END_SECTION:activity-->
 
