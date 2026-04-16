@@ -205,10 +205,10 @@ Claude Code multi-agent orchestration plugin with specialized agents for explora
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/josix/awesome-claude-md/pull/95) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
-2. 💪 Opened PR [#95](https://github.com/josix/awesome-claude-md/pull/95) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+1. 🎉 Merged PR [#3](https://github.com/josix/agent-flow/pull/3) in [josix/agent-flow](https://github.com/josix/agent-flow)
+2. 💪 Opened PR [#3](https://github.com/josix/agent-flow/pull/3) in [josix/agent-flow](https://github.com/josix/agent-flow)
 3. ℹ️ Labeled issue [#90](https://github.com/josix/awesome-claude-md/issues/90) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
-4. 🎉 Merged PR [#2](https://github.com/josix/agent-flow/pull/2) in [josix/agent-flow](https://github.com/josix/agent-flow)
-5. 🔒 Closed issue [#91](https://github.com/josix/awesome-claude-md/issues/91) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+4. 🎉 Merged PR [#95](https://github.com/josix/awesome-claude-md/pull/95) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+5. 💪 Opened PR [#95](https://github.com/josix/awesome-claude-md/pull/95) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
 <!--END_SECTION:activity-->
 
