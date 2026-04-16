@@ -1,13 +1,13 @@
 # Hey there! I'm Josix 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Python+Engineer+%7C+ML+Enthusiast;Community+Leader+%7C+Open+Source;Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Python+Engineer+%7C+ML+Enthusiast;AI+Agent+Builder+%7C+LLM+Engineer;Community+Leader+%7C+Open+Source;Building+the+Future+with+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=josix&color=brightgreen&style=flat&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/josix?style=flat&logo=github&color=blue&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Python%20%7C%20ML%20%7C%20Community-brightgreen" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Python%20%7C%20AI%2FML%20%7C%20Community-brightgreen" alt="Focus" />
 </p>
 
 ## Who Am I?
@@ -29,7 +29,9 @@ class Josix:
         "ml & information retrieval",
         "data systems",
         "full-stack development",
-        "community leadership"
+        "community leadership",
+        "AI/LLM engineering",
+        "claude code & AI agents"
     ]
     ask_me_about: list[str] = [
         "python tooling",
@@ -37,7 +39,9 @@ class Josix:
         "ml in production",
         "data architecture",
         "python conferences",
-        "productivity tools"
+        "productivity tools",
+        "AI agents",
+        "LLM tooling"
     ]
     communities: dict[str, list[str]] = {
         "volunteer": ["PyConTW'19", "PyConTW'20", "PyConTW'21", "PyConAPAC'22", "PyConTW'24"],
@@ -46,19 +50,21 @@ class Josix:
     technologies: dict[str, list[str]] = {
         "backend": ["fastapi", "django"],
         "frontend": ["reactjs", "vuejs", "nuxtjs", "redux", "webpack", "tailwindcss"],
-        "tools": ["airflow", "elasticsearch", "clickhouse", "redis", "kubernetes", "docker"],
+        "tools": ["airflow", "elasticsearch", "clickhouse", "docker"],
         "shell": ["bash", "zsh"],
         "machine_learning": ["pytorch", "pytorch-geometric"],
         "editors": ["vscode", "vim"],
         "databases": ["postgresql", "mongodb", "redis"],
-        "cloud": ["aws", "gcp", "kubernetes"]
+        "cloud": ["aws", "gcp", "kubernetes"],
+        "ai_llm": ["claude-code", "mcp", "multi-agent-orchestration"]
     }
     interests: dict[str, list[str]] = {
         "data_science": ["learning to rank", "feature engineering", "search optimization"],
         "software_engineering": ["python ecosystem", "database systems", "performance tuning"],
         "management": ["leadership coaching", "performance improvement", "communication"],
         "personal_development": ["mindset", "emotional intelligence", "productivity"],
-        "design": ["material design", "ui/ux", "pixel density"]
+        "design": ["material design", "ui/ux", "pixel density"],
+        "ai_engineering": ["AI agent systems", "LLM tooling", "multi-agent orchestration", "prompt engineering"]
     }
 ```
 
@@ -80,6 +86,7 @@ I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) and [
 - **Data Architecture**: Modern database systems, distributed data processing, lakehouse patterns
 - **Management & Leadership**: Leadership coaching, performance improvement, communication skills
 - **Personal Development**: Mindset development, emotional intelligence, productivity techniques
+- **AI/LLM Engineering**: AI agent systems, Claude Code tooling, multi-agent orchestration, MCP
 
 ## Notable Projects
 
@@ -88,7 +95,7 @@ I maintain a comprehensive [digital knowledge base](http://note.josix.tw/) and [
 <td width="50%">
 
 #### 🚀 [awesome-claude-md](https://github.com/josix/awesome-claude-md)
-Curated collection of exemplary claude.md files and onboarding patterns for AI development workflows. Includes analyses, best practices, and templates.
+Curated collection of exemplary claude.md files (226+ stars). Best practices, templates, and onboarding patterns for AI development workflows.
 
 **Tech Stack:** Documentation, AI Tools, Best Practices  
 
@@ -113,10 +120,10 @@ Contributing to the Traditional Chinese translation of Python Documentation - he
 </td>
 <td width="50%">
 
-#### ⚡ [Apache Airflow](https://github.com/apache/airflow)
-Contributing to the world's most popular workflow orchestration platform. Focus on data pipeline optimization and workflow management.
+#### ⚡ [agent-flow](https://github.com/josix/agent-flow)
+Claude Code multi-agent orchestration plugin with specialized agents for exploration, planning, implementation, review, and verification.
 
-**Tech Stack:** Python, Data Engineering, Orchestration  
+**Tech Stack:** Shell, AI Agents, Claude Code, MCP  
 
 </td>
 </tr>
@@ -129,6 +136,7 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
 - **Data Systems**: Knowledge of modern data architecture, distributed systems, and database technologies
 - **Community Leadership**: Active contributor and team lead in Python conferences
 - **Tool Building**: Creates systems to solve personal and team productivity challenges
+- **AI/LLM Engineering**: Building AI agent systems, multi-agent orchestration, and developer tooling with Claude Code and MCP
 
 ## Fun Facts & Interests
 
@@ -142,14 +150,11 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
 - 🌏 **Multilingual** - Fluent in Traditional Chinese and English
 - ⚡ **Tech stack diversity** - Comfortable with both backend and frontend development
 - 🔧 **DevOps curious** - Love working with containerization and orchestration tools
+- 🤖 **AI agent builder** - Creating multi-agent orchestration tools with Claude Code and MCP
 
 </details>
 
 ## Achievements & Contributions
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josix&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
 
 <p align="center">
   <a href="https://holopin.io/@josix">
@@ -172,6 +177,7 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic">
 </p>
 
 ## GitHub Analytics
@@ -184,6 +190,16 @@ Contributing to the world's most popular workflow orchestration platform. Focus 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=josix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" width="98%" alt="GitHub Activity Graph">
 </p>
+
+<!-- AGENT_STATS_START -->
+## AI Agent Activity
+
+<p align="center">
+  <img src="agent-activity.svg" alt="AI Agent Activity Heatmap" width="98%">
+</p>
+
+> Powered by [AgentsView](https://www.agentsview.io/) — tracking AI coding sessions across 65 projects since 2024-05
+<!-- AGENT_STATS_END -->
 
 ## Recent Activity
 
