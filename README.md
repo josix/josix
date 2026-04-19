@@ -205,10 +205,10 @@ Claude Code multi-agent orchestration plugin with specialized agents for explora
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/josix/agent-flow/pull/5) in [josix/agent-flow](https://github.com/josix/agent-flow)
-2. 🎉 Merged PR [#4](https://github.com/josix/agent-flow/pull/4) in [josix/agent-flow](https://github.com/josix/agent-flow)
-3. 💪 Opened PR [#4](https://github.com/josix/agent-flow/pull/4) in [josix/agent-flow](https://github.com/josix/agent-flow)
-4. 🎉 Merged PR [#3](https://github.com/josix/agent-flow/pull/3) in [josix/agent-flow](https://github.com/josix/agent-flow)
-5. 💪 Opened PR [#3](https://github.com/josix/agent-flow/pull/3) in [josix/agent-flow](https://github.com/josix/agent-flow)
+1. ❌ Closed PR [#6](https://github.com/josix/agent-flow/pull/6) in [josix/agent-flow](https://github.com/josix/agent-flow)
+2. 💪 Opened PR [#6](https://github.com/josix/agent-flow/pull/6) in [josix/agent-flow](https://github.com/josix/agent-flow)
+3. 🎉 Merged PR [#5](https://github.com/josix/agent-flow/pull/5) in [josix/agent-flow](https://github.com/josix/agent-flow)
+4. 💪 Opened PR [#5](https://github.com/josix/agent-flow/pull/5) in [josix/agent-flow](https://github.com/josix/agent-flow)
+5. 🎉 Merged PR [#4](https://github.com/josix/agent-flow/pull/4) in [josix/agent-flow](https://github.com/josix/agent-flow)
 <!--END_SECTION:activity-->
 
