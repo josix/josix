@@ -205,10 +205,10 @@ Claude Code multi-agent orchestration plugin with specialized agents for explora
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/josix/agent-flow/pull/8) in [josix/agent-flow](https://github.com/josix/agent-flow)
-2. 💪 Opened PR [#8](https://github.com/josix/agent-flow/pull/8) in [josix/agent-flow](https://github.com/josix/agent-flow)
-3. 🔒 Closed issue [#1210](https://github.com/python/python-docs-zh-tw/issues/1210) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 🔒 Closed issue [#865](https://github.com/python/python-docs-zh-tw/issues/865) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-5. 🗣 Commented on [#1896](https://github.com/commitizen-tools/commitizen/pull/1896#issuecomment-4453749117) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🎉 Merged PR [#8](https://github.com/josix/gitpy/pull/8) in [josix/gitpy](https://github.com/josix/gitpy)
+2. 🎉 Merged PR [#8](https://github.com/josix/agent-flow/pull/8) in [josix/agent-flow](https://github.com/josix/agent-flow)
+3. 💪 Opened PR [#8](https://github.com/josix/agent-flow/pull/8) in [josix/agent-flow](https://github.com/josix/agent-flow)
+4. 🔒 Closed issue [#1210](https://github.com/python/python-docs-zh-tw/issues/1210) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. 🔒 Closed issue [#865](https://github.com/python/python-docs-zh-tw/issues/865) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
 <!--END_SECTION:activity-->
 
