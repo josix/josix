@@ -205,10 +205,10 @@ Claude Code multi-agent orchestration plugin with specialized agents for explora
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1217](https://github.com/python/python-docs-zh-tw/issues/1217) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-2. 🎉 Merged PR [#1236](https://github.com/python/python-docs-zh-tw/pull/1236) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-3. 💪 Opened PR [#1236](https://github.com/python/python-docs-zh-tw/pull/1236) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
-4. 💪 Opened PR [#1](https://github.com/josix/claude-running-coach/pull/1) in [josix/claude-running-coach](https://github.com/josix/claude-running-coach)
-5. 🎉 Merged PR [#8](https://github.com/josix/gitpy/pull/8) in [josix/gitpy](https://github.com/josix/gitpy)
+1. 🔒 Closed issue [#108](https://github.com/josix/awesome-claude-md/issues/108) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+2. 🔒 Closed issue [#1217](https://github.com/python/python-docs-zh-tw/issues/1217) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+3. 🎉 Merged PR [#1236](https://github.com/python/python-docs-zh-tw/pull/1236) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+4. 💪 Opened PR [#1236](https://github.com/python/python-docs-zh-tw/pull/1236) in [python/python-docs-zh-tw](https://github.com/python/python-docs-zh-tw)
+5. 💪 Opened PR [#1](https://github.com/josix/claude-running-coach/pull/1) in [josix/claude-running-coach](https://github.com/josix/claude-running-coach)
 <!--END_SECTION:activity-->
 
