@@ -156,11 +156,6 @@ Claude Code multi-agent orchestration plugin with specialized agents for explora
 
 ## Achievements & Contributions
 
-<p align="center">
-  <a href="https://holopin.io/@josix">
-    <img src="https://holopin.io/api/user/board?user=josix" alt="Holopin Board" />
-  </a>
-</p>
 
 ### Community Leadership
 - **Team Lead**: PyConTW'21, PyConAPAC'22, PyConTW'23
