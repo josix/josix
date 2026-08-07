@@ -193,7 +193,7 @@ Claude Code multi-agent orchestration plugin with specialized agents for explora
   <img src="agent-activity.svg" alt="AI Agent Activity Heatmap" width="98%">
 </p>
 
-> Powered by [AgentsView](https://www.agentsview.io/) — tracking AI coding sessions across 103 projects since 2024-05
+> Powered by [AgentsView](https://www.agentsview.io/) — tracking AI coding sessions across 113 projects since 2024-05
 <!-- AGENT_STATS_END -->
 
 ## Recent Activity
