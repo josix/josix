@@ -1,15 +1,5 @@
 # Hey there! I'm Josix 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Python+Engineer+%7C+ML+Enthusiast;AI+Agent+Builder+%7C+LLM+Engineer;Community+Leader+%7C+Open+Source;Building+the+Future+with+Code" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=josix&color=brightgreen&style=flat&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/josix?style=flat&logo=github&color=blue&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Python%20%7C%20AI%2FML%20%7C%20Community-brightgreen" alt="Focus" />
-</p>
-
 ## Who Am I?
 ```python
 """For better readability, the following code is not runnable 😆"""
