@@ -190,10 +190,10 @@ Claude Code multi-agent orchestration plugin with specialized agents for explora
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/opensource4you/readme/pull/55) in [opensource4you/readme](https://github.com/opensource4you/readme)
-2. 💪 Opened PR [#1](https://github.com/josix/agentic-contributor/pull/1) in [josix/agentic-contributor](https://github.com/josix/agentic-contributor)
-3. 🔒 Closed issue [#124](https://github.com/josix/awesome-claude-md/issues/124) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
-4. 🔒 Closed issue [#123](https://github.com/josix/awesome-claude-md/issues/123) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
-5. 🔒 Closed issue [#122](https://github.com/josix/awesome-claude-md/issues/122) in [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md)
+1. 💪 Opened PR [#16](https://github.com/josix/agent-flow/pull/16) in [josix/agent-flow](https://github.com/josix/agent-flow)
+2. 🎉 Merged PR [#2](https://github.com/josix/agentic-retrieval/pull/2) in [josix/agentic-retrieval](https://github.com/josix/agentic-retrieval)
+3. ❌ Closed PR [#15](https://github.com/josix/agent-flow/pull/15) in [josix/agent-flow](https://github.com/josix/agent-flow)
+4. 🗣 Commented on [#15](https://github.com/josix/agent-flow/pull/15#issuecomment-6382185936) in [josix/agent-flow](https://github.com/josix/agent-flow)
+5. 💪 Opened PR [#15](https://github.com/josix/agent-flow/pull/15) in [josix/agent-flow](https://github.com/josix/agent-flow)
 <!--END_SECTION:activity-->
 
