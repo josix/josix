@@ -190,10 +190,10 @@ Claude Code multi-agent orchestration plugin with specialized agents for explora
 
 > **How it works**: This section is automatically updated every 30 minutes using a [GitHub Actions workflow](.github/workflows/update-activity.yml) that fetches my latest GitHub activities and updates this README file.
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/josix/agentic-contributor/pull/6) in [josix/agentic-contributor](https://github.com/josix/agentic-contributor)
-2. 💪 Opened PR [#6](https://github.com/josix/agentic-contributor/pull/6) in [josix/agentic-contributor](https://github.com/josix/agentic-contributor)
-3. 🎉 Merged PR [#5](https://github.com/josix/agentic-contributor/pull/5) in [josix/agentic-contributor](https://github.com/josix/agentic-contributor)
-4. 💪 Opened PR [#5](https://github.com/josix/agentic-contributor/pull/5) in [josix/agentic-contributor](https://github.com/josix/agentic-contributor)
-5. 🎉 Merged PR [#1](https://github.com/josix/agentic-contributor/pull/1) in [josix/agentic-contributor](https://github.com/josix/agentic-contributor)
+1. 💪 Opened PR [#7](https://github.com/josix/agentic-retrieval/pull/7) in [josix/agentic-retrieval](https://github.com/josix/agentic-retrieval)
+2. 🎉 Merged PR [#6](https://github.com/josix/agentic-contributor/pull/6) in [josix/agentic-contributor](https://github.com/josix/agentic-contributor)
+3. 💪 Opened PR [#6](https://github.com/josix/agentic-contributor/pull/6) in [josix/agentic-contributor](https://github.com/josix/agentic-contributor)
+4. 🎉 Merged PR [#5](https://github.com/josix/agentic-contributor/pull/5) in [josix/agentic-contributor](https://github.com/josix/agentic-contributor)
+5. 💪 Opened PR [#5](https://github.com/josix/agentic-contributor/pull/5) in [josix/agentic-contributor](https://github.com/josix/agentic-contributor)
 <!--END_SECTION:activity-->
 
